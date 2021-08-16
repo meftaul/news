@@ -1,3 +1,5 @@
 cacheUrl: https://meftaul.github.io/news/cache.json
 sources:
   - href: https://news.google.com/rss?hl=bn&gl=BD&ceid=BD:bn
+siteTitle: "News::feed"
+cacheMaxDays: 5
