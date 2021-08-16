@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-16T12:25:56.843Z</updated>
+    <updated>2021-08-16T13:42:36.437Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[কোভিড: আরও ১৭৪ মৃত্যু, ৬৯৫৯ জন শনাক্ত - bdnews24.com]]></title>
+        <id>52781623500737</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9jb3JvbmF2aXJ1cy1wYW5kZW1pYy9hcnRpY2xlMTkyNjk3Ny5iZG5ld3PSAUFodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvY29yb25hdmlydXMtcGFuZGVtaWMvMTkyNjk3Nw?oc=5"/>
+        <updated>2021-08-16T12:36:53.000Z</updated>
+        <summary type="html"><![CDATA[কোভিড: আরও ১৭৪ মৃত্যু, ৬৯৫৯ জন শনাক্ত  bdnews24.com
+একদিনে শনাক্ত প্রায় ৭ হাজার  জাগো নিউজ
+আগে বিশ্ববিদ্যালয় খুলতে পারে, মাধ্যমিক ধাপে ধাপে  প্রথম আলো
+দেশে করোনায় মৃত্যু ২৪ হাজার ছাড়ালো  দৈনিক ইত্তেফাক
+দেশে করোনা শনাক্তের চেয়ে বাড়ছে সুস্থতার হার  দৈনিক ইত্তেফাক
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আফগানিস্তান থেকে ৪৫ হাজার মানুষ উদ্ধারে বিমান বাংলাদেশকে প্রস্তাব যুক্তরাষ্ট্রের - Jugantor]]></title>
+        <id>CBMisQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU0NTY0LyVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODctJUUwJUE3JUFBJUUwJUE3JUFCLSVFMCVBNiVCOSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODElRTAlQTYlQjctJUUwJUE2JTg5JUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUFDLSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiU5RiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCMNIBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMisQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU0NTY0LyVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODctJUUwJUE3JUFBJUUwJUE3JUFCLSVFMCVBNiVCOSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODElRTAlQTYlQjctJUUwJUE2JTg5JUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUFDLSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiU5RiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCMNIBAA?oc=5"/>
+        <updated>2021-08-16T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[আফগানিস্তান থেকে ৪৫ হাজার মানুষ উদ্ধারে বিমান বাংলাদেশকে প্রস্তাব যুক্তরাষ্ট্রের  Jugantor]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malaika Arora: পুরনো সম্পর্কে ফিরলেন? অর্জুনকে ছেড়ে ফের আরবাজের সঙ্গে লাঞ্চ ডেটে মালাইকা! - News18 Bangla]]></title>
         <id>52781623182427</id>
@@ -37,11 +62,50 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে প্রস্তুত চীন, রাশিয়ার সিদ্ধান্ত কাল - Jugantor]]></title>
+        <id>52781624558806</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMirQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTQ1NDQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiU5OSVFMCVBNyU4RCVFMCVBNiU5NyVFMCVBNyU4Ny0lRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTclRTAlQTclODElRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQUMlRTAlQTYlQUElRTAlQTclODIlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTMtJUUwJUE2JUI4JUUwJUE2JUFFJUUwJUE3JThEJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1LSVFMCVBNiU5NyVFMCVBNiVBMSVFMCVBNiVCQyVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtJUUwJUE2JTlBJUUwJUE3JTgwJUUwJUE2JUE4LSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNiVBRiVFMCVBNiVCQyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTYlRTAlQTclOEQlRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTQtJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUIy0gEA?oc=5"/>
+        <updated>2021-08-16T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে প্রস্তুত চীন, রাশিয়ার সিদ্ধান্ত কাল  Jugantor
+তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে চায় চীন  দৈনিক ইত্তেফাক
+তালেবানের সঙ্গে ‘বন্ধুত্বপূর্ণ সম্পর্ক’ গড়তে প্রস্তুত চীন  জাগো নিউজ
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[আইসিইউতে রওশন এরশাদ - Jugantor]]></title>
         <id>CBMixAFodHRwczovL3d3dy5qdWdhbnRvci5jb20vcG9saXRpY3MvNDU0NTQyLyVFMCVBNiU4NiVFMCVBNiU4NyVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiU4NyVFMCVBNiU4OSVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTYlOTMlRTAlQTYlQjYlRTAlQTYlQTgtJUUwJUE2JThGJUUwJUE2JUIwJUUwJUE2JUI2JUUwJUE2JUJFJUUwJUE2JUE20gEA</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMixAFodHRwczovL3d3dy5qdWdhbnRvci5jb20vcG9saXRpY3MvNDU0NTQyLyVFMCVBNiU4NiVFMCVBNiU4NyVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiU4NyVFMCVBNiU4OSVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTYlOTMlRTAlQTYlQjYlRTAlQTYlQTgtJUUwJUE2JThGJUUwJUE2JUIwJUUwJUE2JUI2JUUwJUE2JUJFJUUwJUE2JUE20gEA?oc=5"/>
         <updated>2021-08-16T11:02:00.000Z</updated>
         <summary type="html"><![CDATA[আইসিইউতে রওশন এরশাদ  JugantorGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আফগানিস্তানফেরতরা দেশে ঢুকলেই গ্রেফতার - জাগো নিউজ]]></title>
+        <id>52781624617851</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL25hdGlvbmFsL25ld3MvNjkyMDU00gElaHR0cHM6Ly93d3cuamFnb25ld3MyNC5jb20vYW1wLzY5MjA1NA?oc=5"/>
+        <updated>2021-08-16T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[আফগানিস্তানফেরতরা দেশে ঢুকলেই গ্রেফতার  জাগো নিউজ
+'আফগানিস্তান ফেরত বাংলাদেশিরা দেশে ঢুকলেই গ্রেফতার'  দৈনিক ইত্তেফাক
+আফগানিস্তানফেরতরা দেশে ঢুকলেই গ্রেপ্তার: ডিএমপি কমিশনার  mzamin.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[বেসামরিকদের অস্ত্র সংগ্রহ করছে তালেবান - Bangla Tribune]]></title>
+        <id>52781624682155</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi2wJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTYyMzEvJUUwJUE2JUFDJUUwJUE3JTg3JUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE2JUIwJUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU4NSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlOTclRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjktJUUwJUE2JTk1JUUwJUE2JUIwJUUwJUE2JTlCJUUwJUE3JTg3LSVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVBQyVFMCVBNiVCRSVFMCVBNiVBONIB3wJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS9hbXAvNjk2MjMxLyVFMCVBNiVBQyVFMCVBNyU4NyVFMCVBNiVCOCVFMCVBNiVCRSVFMCVBNiVBRSVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNiU5NSVFMCVBNiVBNiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlODUlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE2JTgyJUUwJUE2JTk3JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI5LSVFMCVBNiU5NSVFMCVBNiVCMCVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTg?oc=5"/>
+        <updated>2021-08-16T10:53:59.000Z</updated>
+        <summary type="html"><![CDATA[বেসামরিকদের অস্ত্র সংগ্রহ করছে তালেবান  Bangla Tribune
+বেসামরিক নাগরিকদের কাছ থেকে অস্ত্র জমা নিচ্ছে তালেবান  Jugantor
+বেসামরিক মানুষের থেকে অস্ত্র সংগ্রহ করছে তালেবান  mzamin.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -64,6 +128,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzA5NDXSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMwOTQ1?oc=5"/>
         <updated>2021-08-16T10:47:33.000Z</updated>
         <summary type="html"><![CDATA[আই‌সিইউ‌তে রওশন এরশাদ  দৈনিক আমাদেরসময়Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[বার্সার সব অধিনায়ক বেতন কমানোর পক্ষে - bdnews24.com]]></title>
+        <id>CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9zcG9ydC9hcnRpY2xlMTkyNzExMS5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvc3BvcnQvMTkyNzExMQ</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9zcG9ydC9hcnRpY2xlMTkyNzExMS5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvc3BvcnQvMTkyNzExMQ?oc=5"/>
+        <updated>2021-08-16T10:44:27.000Z</updated>
+        <summary type="html"><![CDATA[বার্সার সব অধিনায়ক বেতন কমানোর পক্ষে  bdnews24.com]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -127,6 +201,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 ইন্ডিয়ান আইডল-১২ চ্যাম্পিয়ন হলেন পবনদীপ রাজন  সমকাল
 ইন্ডিয়ান আইডলে আসল চ্যাম্পিয়ন অরুণিতাই!  জাগো নিউজ
 Fact Check: ইন্ডিয়ান আইডল ১২-র ট্রফি হাতে পবনদীপের ছবি ভাইরাল, জানুন সত্যিটা  HT Bangla
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[পদত্যাগ করেও মালয়েশিয়ার অন্তর্বর্তীকালীন প্রধানমন্ত্রী হলেন মুহিউদ্দিন - দৈনিক ইত্তেফাক]]></title>
+        <id>52781622613694</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi8gRodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC93b3JsZG5ld3MvMjY3OTIzLyVFMCVBNiVBQSVFMCVBNiVBNiVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiU5Ny0lRTAlQTYlOTUlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOTMtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTlGJUUwJUE3JTg3JUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU4NSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVBQyVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNyU4MCVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNyU4MCVFMCVBNiVBOC0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQUUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODAtJUUwJUE2JUI5JUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNyU4MSVFMCVBNiVCOSVFMCVBNiVCRiVFMCVBNiU4OSVFMCVBNiVBNiVFMCVBNyU4RCVFMCVBNiVBNiVFMCVBNiVCRiVFMCVBNiVBONIBAA?oc=5"/>
+        <updated>2021-08-16T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[পদত্যাগ করেও মালয়েশিয়ার অন্তর্বর্তীকালীন প্রধানমন্ত্রী হলেন মুহিউদ্দিন  দৈনিক ইত্তেফাক
+পুরো মন্ত্রিসভা নিয়ে মালয়েশিয়ার প্রধানমন্ত্রীর পদত্যাগ  বাংলানিউজটোয়েন্টিফোর.কম
+রাজার কাছে মালয়েশিয়ার প্রধানমন্ত্রীর পদত্যাগপত্র  bdnews24.com
+মালয়েশিয়ার প্রধানমন্ত্রী আজ পদত্যাগ করছেন!  দৈনিক ইত্তেফাক
+মহিউদ্দিন ইয়াসিনের পদত্যাগ  নয়া দিগন্ত
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -333,6 +422,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 তালেবানের দখলে কাবুল, দেশ ছাড়লেন প্রেসিডেন্ট  বাংলানিউজটোয়েন্টিফোর.কম
 দুই দশক পর আফগানিস্তান ফের তালেবানের কব্জায়  bdnews24.com
 হাইতিতে ভূমিকম্পে মৃতের সংখ্যা বেড়ে ৭২৪  Bangla Tribune
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[কাবুল বিমানবন্দরে যুক্তরাষ্ট্রের সেনাদের ফাঁকা গুলি ১৬ আগস্ট, ২০২১ - Jugantor]]></title>
+        <id>52781624300266</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi1wNodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTQ0OTQvJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTgxJUUwJUE2JUIyLSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVBQyVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBNiVFMCVBNiVCMCVFMCVBNyU4Ny0lRTAlQTYlQUYlRTAlQTclODElRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQjclRTAlQTclOEQlRTAlQTYlOUYlRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE3JTg3JUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBQiVFMCVBNiVCRSVFMCVBNiU4MSVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlOTclRTAlQTclODElRTAlQTYlQjIlRTAlQTYlQkYlQzIlQTDSAQA?oc=5"/>
+        <updated>2021-08-16T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[কাবুল বিমানবন্দরে যুক্তরাষ্ট্রের সেনাদের ফাঁকা গুলি ১৬ আগস্ট, ২০২১  Jugantor
+কাবুল বিমানবন্দরে সহিংসতা নিহত ৫  দৈনিক ইত্তেফাক
+কাবুল বিমানবন্দরে মার্কিন বাহিনীর গুলি, নিহত পাঁচ  কালের কন্ঠ
+বিমানে উঠতে কাবুল বিমানবন্দরে 'হুড়োহুড়ি', নিহত ৫ (ভিডিও) ১৬ আগস্ট, ২০২১  Jugantor
+কাবুল বিমানবন্দরে ফাঁকা গুলি ছুড়েছে যুক্তরাষ্ট্রের সেনারা  bdnews24.com
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -983,6 +1087,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[মেসেঞ্জারে নতুন সুবিধা আনল ফেসবুক - SOMOY NEWS]]></title>
+        <id>CAIiEOAsbY3SVAnwxmgotj11h1cqMwgEKioIACIQVUh0iXTptzBm2z8CZvFx1ioUCAoiEFVIdIl06bcwZts_AmbxcdYwrsXHBg</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMisgJodHRwczovL3d3dy5zb21veW5ld3MudHYvbmV3cy8yMDIxLTA4LTE1LyVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNiVCOCVFMCVBNyU4NyVFMCVBNiU5RSVFMCVBNyU4RCVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4Ny0lRTAlQTYlQTglRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTgtJUUwJUE2JUI4JUUwJUE3JTgxJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUE3JUUwJUE2JUJFLSVFMCVBNiU4NiVFMCVBNiVBOCVFMCVBNiVCMi0lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOTXSAQA?oc=5"/>
+        <updated>2021-08-15T17:21:13.000Z</updated>
+        <summary type="html"><![CDATA[মেসেঞ্জারে নতুন সুবিধা আনল ফেসবুক  SOMOY NEWS]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[আপনার স্মার্টফোনে ফাইভ-জি চলবে কি না, বুঝবেন যেভাবে - প্রথম আলো]]></title>
         <id>CBMitANodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9lZHVjYXRpb24vc2NpZW5jZS10ZWNoLyVFMCVBNiU4NiVFMCVBNiVBQSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQUIlRTAlQTclOEIlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFELSVFMCVBNiU5QyVFMCVBNiVCRi0lRTAlQTYlOUElRTAlQTYlQjIlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUJGLSVFMCVBNiVBOCVFMCVBNiVCRS0lRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOUQlRTAlQTYlQUMlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTg30gG-A2h0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tL2FtcC9zdG9yeS9lZHVjYXRpb24vc2NpZW5jZS10ZWNoLyVFMCVBNiU4NiVFMCVBNiVBQSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQUIlRTAlQTclOEIlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFELSVFMCVBNiU5QyVFMCVBNiVCRi0lRTAlQTYlOUElRTAlQTYlQjIlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUJGLSVFMCVBNiVBOCVFMCVBNiVCRS0lRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOUQlRTAlQTYlQUMlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTg3</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMitANodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9lZHVjYXRpb24vc2NpZW5jZS10ZWNoLyVFMCVBNiU4NiVFMCVBNiVBQSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQUIlRTAlQTclOEIlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFELSVFMCVBNiU5QyVFMCVBNiVCRi0lRTAlQTYlOUElRTAlQTYlQjIlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUJGLSVFMCVBNiVBOCVFMCVBNiVCRS0lRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOUQlRTAlQTYlQUMlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTg30gG-A2h0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tL2FtcC9zdG9yeS9lZHVjYXRpb24vc2NpZW5jZS10ZWNoLyVFMCVBNiU4NiVFMCVBNiVBQSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQUIlRTAlQTclOEIlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFELSVFMCVBNiU5QyVFMCVBNiVCRi0lRTAlQTYlOUElRTAlQTYlQjIlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUJGLSVFMCVBNiVBOCVFMCVBNiVCRS0lRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOUQlRTAlQTYlQUMlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTg3?oc=5"/>
@@ -1106,6 +1220,19 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 বাগরাম বিমানঘাঁটি ও কারাগার তালেবানের দখলে  নয়া দিগন্ত
 বাগরাম বিমানঘাঁটি দখলের দাবি তালেবানের  bdnews24.com
 তালেবানের নিয়ন্ত্রণে বাগরাম ঘাঁটি ও কারাগার  জাগো নিউজ
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ফেসবুকের নতুন চমক! - Bangladesh Journal]]></title>
+        <id>52781623386242</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiwgFodHRwczovL3d3dy5iZC1qb3VybmFsLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzE3MDU4Ny8lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOTUlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUE4JUUwJUE2JUE0JUUwJUE3JTgxJUUwJUE2JUE4LSVFMCVBNiU5QSVFMCVBNiVBRSVFMCVBNiU5NdIBAA?oc=5"/>
+        <updated>2021-08-15T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[ফেসবুকের নতুন চমক!  Bangladesh Journal
+গোপনীয়তা নিয়ে নতুন ঘোষণা ফেসবুকের  SOMOY NEWS
+গোপনীয়তা নিয়ে আরও কড়া Facebook, এবার video ও voice call-এ জারি নয়া নিয়ম  Sangbad Pratidin
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
