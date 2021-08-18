@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-18T06:16:18.044Z</updated>
+    <updated>2021-08-18T07:12:43.491Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[বাংলাদেশের বিপক্ষে খেলতে মুখিয়ে আছে পাপুয়া নিউগিনির খেলোয়াড়রা - কালের কন্ঠ]]></title>
+        <id>52781627715123</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOC8xMDY0NTk10gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOC8xMDY0NTk1?oc=5"/>
+        <updated>2021-08-18T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[বাংলাদেশের বিপক্ষে খেলতে মুখিয়ে আছে পাপুয়া নিউগিনির খেলোয়াড়রা  কালের কন্ঠ
+বাংলাদেশের সাথে খেলতে মুখিয়ে আছে পাপুয়া...  bdcrictime.com Bangla
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[কাবুলে নতুন গভর্নর নিয়োগ দিল তালেবান - কালের কন্ঠ]]></title>
         <id>52781622672764</id>
@@ -35,6 +47,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[বিএনপি-পুলিশ সংঘর্ষ ও গুলির ঘটনায় ৩ মামলা - Jugantor]]></title>
+        <id>52781625888429</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi4QJodHRwczovL3d3dy5qdWdhbnRvci5jb20vcG9saXRpY3MvNDU1MjI5LyVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiU4RiVFMCVBNiVBOCVFMCVBNiVBQSVFMCVBNiVCRiVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVCMiVFMCVBNiVCRiVFMCVBNiVCNi0lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlOTglRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQjctJUUwJUE2JTkzLSVFMCVBNiU5NyVFMCVBNyU4MSVFMCVBNiVCMiVFMCVBNiVCRiVFMCVBNiVCMC0lRTAlQTYlOTglRTAlQTYlOUYlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE3JUE5LSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBRSVFMCVBNiVCMiVFMCVBNiVCRdIBAA?oc=5"/>
+        <updated>2021-08-18T05:51:00.000Z</updated>
+        <summary type="html"><![CDATA[বিএনপি-পুলিশ সংঘর্ষ ও গুলির ঘটনায় ৩ মামলা  Jugantor
+চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষে আহত অর্ধশতাধিক  bdnews24.com
+চন্দ্রিমা উদ্যানে সংঘর্ষ, বিএনপির ৪০ নেতা-কর্মী আটক  প্রথম আলো
+চন্দ্রিমা উদ্যানে পুলিশ-বিএনপি সংঘর্ষ, আমান-আমিনুল গুলিবিদ্ধ  কালের কন্ঠ
+সাবেক ফুটবলার বিএনপি নেতা আমিনুল রক্তাক্ত (ভিডিও) ১৭ আগস্ট, ২০২১  Jugantor
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[নীরবতা ভেঙে যা বললেন রোনালদো - এনটিভি]]></title>
         <id>CBMigAJodHRwczovL3d3dy5udHZiZC5jb20vc3BvcnRzLyVFMCVBNiVBOCVFMCVBNyU4MCVFMCVBNiVCMCVFMCVBNiVBQyVFMCVBNiVBNCVFMCVBNiVCRS0lRTAlQTYlQUQlRTAlQTclODclRTAlQTYlOTklRTAlQTclODctJUUwJUE2JUFGJUUwJUE2JUJFLSVFMCVBNiVBQyVFMCVBNiVCMiVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTYlQjAlRTAlQTclOEIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTYlQTYlRTAlQTclOEItOTQ3NDAx0gGEAmh0dHBzOi8vd3d3Lm50dmJkLmNvbS9zcG9ydHMvJUUwJUE2JUE4JUUwJUE3JTgwJUUwJUE2JUIwJUUwJUE2JUFDJUUwJUE2JUE0JUUwJUE2JUJFLSVFMCVBNiVBRCVFMCVBNyU4NyVFMCVBNiU5OSVFMCVBNyU4Ny0lRTAlQTYlQUYlRTAlQTYlQkUtJUUwJUE2JUFDJUUwJUE2JUIyJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUE4LSVFMCVBNiVCMCVFMCVBNyU4QiVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNiVBNiVFMCVBNyU4Qi05NDc0MDE_YW1w</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMigAJodHRwczovL3d3dy5udHZiZC5jb20vc3BvcnRzLyVFMCVBNiVBOCVFMCVBNyU4MCVFMCVBNiVCMCVFMCVBNiVBQyVFMCVBNiVBNCVFMCVBNiVCRS0lRTAlQTYlQUQlRTAlQTclODclRTAlQTYlOTklRTAlQTclODctJUUwJUE2JUFGJUUwJUE2JUJFLSVFMCVBNiVBQyVFMCVBNiVCMiVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTYlQjAlRTAlQTclOEIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTYlQTYlRTAlQTclOEItOTQ3NDAx0gGEAmh0dHBzOi8vd3d3Lm50dmJkLmNvbS9zcG9ydHMvJUUwJUE2JUE4JUUwJUE3JTgwJUUwJUE2JUIwJUUwJUE2JUFDJUUwJUE2JUE0JUUwJUE2JUJFLSVFMCVBNiVBRCVFMCVBNyU4NyVFMCVBNiU5OSVFMCVBNyU4Ny0lRTAlQTYlQUYlRTAlQTYlQkUtJUUwJUE2JUFDJUUwJUE2JUIyJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUE4LSVFMCVBNiVCMCVFMCVBNyU4QiVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNiVBNiVFMCVBNyU4Qi05NDc0MDE_YW1w?oc=5"/>
@@ -54,6 +81,20 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 বিয়ে নয়, বিলাসবহুল গাড়ি কিনলেন অঙ্কুশ  risingbd.com
 Ankush-Oindrila: ‘সতীন’ আনলেন অঙ্কুশ! নেটমাধ্যমে তীব্র প্রতিক্রিয়া ঐন্দ্রিলার  Anandabazar Patrika
 সুন্দরী 'সতীন' ঘরে আনল অঙ্কুশ! তবুও দু'হাত খুলে স্বাগত জানালেন ঐন্দ্রিলা  HT Bangla
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[সচিবদের নিয়ে বৈঠক করছেন প্রধানমন্ত্রী - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
+        <id>52781627679588</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vbmF0aW9uYWwvbmV3cy9iZC84NzQ3MzguZGV0YWlsc9IBAA?oc=5"/>
+        <updated>2021-08-18T05:33:04.000Z</updated>
+        <summary type="html"><![CDATA[সচিবদের নিয়ে বৈঠক করছেন প্রধানমন্ত্রী  বাংলানিউজটোয়েন্টিফোর.কম
+চার বছর পর সচিবদের নিয়ে বৈঠকে প্রধানমন্ত্রী  কালের কন্ঠ
+৪ বছর পর সচিবদের সঙ্গে বৈঠকে প্রধানমন্ত্রী  দৈনিক ইত্তেফাক
+চার বছর পর সচিবদের সঙ্গে বৈঠকে প্রধানমন্ত্রী  জাগো নিউজ
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -292,6 +333,18 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[লেভানদোভস্কির জোড়া গোলে জার্মান সুপার কাপ বায়ার্নের - জাগো নিউজ]]></title>
+        <id>52781627259223</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL3Nwb3J0cy9mb290YmFsbC82OTI0MzjSAQA?oc=5"/>
+        <updated>2021-08-18T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[লেভানদোভস্কির জোড়া গোলে জার্মান সুপার কাপ বায়ার্নের  জাগো নিউজ
+লেভানদোভস্কির জোড়া গোলে সুপার কাপ বায়ার্নের  bdnews24.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[তালেবানকে এখনই স্বীকৃতি দেবে না পাকিস্তান - Jugantor]]></title>
         <id>52781625276621</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi9wJodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTUyMDEvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JTk1JUUwJUE3JTg3LSVFMCVBNiU4RiVFMCVBNiU5NiVFMCVBNiVBOCVFMCVBNiU4Ny0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUMlRTAlQTclODAlRTAlQTYlOTUlRTAlQTclODMlRTAlQTYlQTQlRTAlQTYlQkYtJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE3JTg3LSVFMCVBNiVBOCVFMCVBNiVCRS0lRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlOTUlRTAlQTYlQkYlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQTjSAQA?oc=5"/>
@@ -339,6 +392,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ  বাংলানিউজটোয়েন্টিফোর.কম
 চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষে আহত অর্ধশতাধিক  bdnews24.com
 চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ, গুলি (ভিডিও) ১৭ আগস্ট, ২০২১  Jugantor
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[হাইতিতে ভূমিকম্পে নিহত ১ হাজার ৯০০ ছাড়াল - প্রথম আলো]]></title>
+        <id>52781627656259</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi2QJodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS93b3JsZC8lRTAlQTYlQjklRTAlQTYlQkUlRTAlQTYlODclRTAlQTYlQTQlRTAlQTYlQkYlRTAlQTYlQTQlRTAlQTclODctJUUwJUE2JUFEJUUwJUE3JTgyJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE2JUFFJUUwJUE3JThEJUUwJUE2JUFBJUUwJUE3JTg3LSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOSVFMCVBNiVBNC0lRTAlQTclQTctJUUwJUE2JUI5JUUwJUE2JUJFJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNyVBRiVFMCVBNyVBNiVFMCVBNyVBNi0lRTAlQTYlOUIlRTAlQTYlQkUlRTAlQTclOUMlRTAlQTYlQkUlRTAlQTYlQjLSAeMCaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20vYW1wL3N0b3J5L3dvcmxkLyVFMCVBNiVCOSVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVBNCVFMCVBNiVCRiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQUQlRTAlQTclODIlRTAlQTYlQUUlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQUUlRTAlQTclOEQlRTAlQTYlQUElRTAlQTclODctJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI5JUUwJUE2JUE0LSVFMCVBNyVBNy0lRTAlQTYlQjklRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE3JUFGJUUwJUE3JUE2JUUwJUE3JUE2LSVFMCVBNiU5QiVFMCVBNiVCRSVFMCVBNyU5QyVFMCVBNiVCRSVFMCVBNiVCMg?oc=5"/>
+        <updated>2021-08-18T01:37:42.000Z</updated>
+        <summary type="html"><![CDATA[হাইতিতে ভূমিকম্পে নিহত ১ হাজার ৯০০ ছাড়াল  প্রথম আলো
+ভূমিকম্পে বিধ্বস্ত হাইতিতে ঝড়-বন্যা, মৃত্যু বেড়ে ১৪১৯  bdnews24.com
+হাইতিতে ভূমিকম্পে নিহতের সংখ্যা বেড়ে ১৯৪১  জাগো নিউজ
+হাইতিতে ভূমিকম্প : মৃতের সংখ্যা বেড়ে ১,৯৪১  নয়া দিগন্ত
+হাইতিতে ভূমিকম্পে মৃতের সংখ্যা বেড়ে ১৪১৯  বাংলানিউজটোয়েন্টিফোর.কম
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -491,6 +559,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 নিজেকে আফগানিস্তানের অন্তর্বর্তী প্রেসিডেন্ট ঘোষণা করলেন আমরুল্লাহ সালেহ  Bangla Tribune
 সংবাদমাধ্যমকে সতর্ক করলো তালেবান  Bangla Tribune
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[পরীমনির জামিন চান তারা - দৈনিক আমাদেরসময়]]></title>
+        <id>CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzEyMTfSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMxMjE3</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzEyMTfSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMxMjE3?oc=5"/>
+        <updated>2021-08-17T19:04:10.000Z</updated>
+        <summary type="html"><![CDATA[পরীমনির জামিন চান তারা  দৈনিক আমাদেরসময়]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -3068,6 +3146,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 India Vs England: লর্ডস টেস্টে চাপে ভারত, বল-বিকৃতি বিতর্কে ইংল্যান্ড  ABP ANANDA
 Lords Day 4: পূজারা, রাহানের পার্টনারশিপ ছাপিয়ে দাপট ইংলিশ বোলারদের  News18 বাংলা
 কোহলির হয়েছেটা কী  প্রথম আলো
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[কাল জানা যাবে পরীমনি জামিন পাচ্ছেন কিনা - দৈনিক আমাদেরসময়]]></title>
+        <id>52781623183466</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzEwMzPSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMxMDMz?oc=5"/>
+        <updated>2021-08-16T18:25:48.000Z</updated>
+        <summary type="html"><![CDATA[কাল জানা যাবে পরীমনি জামিন পাচ্ছেন কিনা  দৈনিক আমাদেরসময়
+পরীমনির জামিন হচ্ছে কি না- জানা যাবে কাল  Jugantor
+পরীমনির ফের ৫ দিনের রিমান্ড চায় সিআইডি, শুনানি কাল  কালের কন্ঠ
+পরীমনির জামিন শুনানি আজ  দৈনিক আমাদেরসময়
+পরীমনির জামিন হবে কিনা, জানা যাবে আজ ১৮ আগস্ট, ২০২১  Jugantor
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
