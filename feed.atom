@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-19T04:16:52.142Z</updated>
+    <updated>2021-08-19T05:11:23.100Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ছাত্রলীগ-আনসার-পুলিশ সংঘর্ষে যোগাযোগ বিচ্ছিন্ন বরিশাল - thedailystar.net]]></title>
+        <id>CBMikAZodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODElRTAlQTYlQTMlRTAlQTclOEQlRTAlQTYlQUYvJUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE2JUJFLyVFMCVBNiU5QiVFMCVBNiVCRSVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVCMC0lRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODAlRTAlQTYlQTQlRTAlQTYlQkYtJUUwJUE2JTkzLSVFMCVBNiU4NSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRi8lRTAlQTYlOUIlRTAlQTYlQkUlRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjIlRTAlQTclODAlRTAlQTYlOTctJUUwJUE2JTg2JUUwJUE2JUE4JUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVCMiVFMCVBNiVCRiVFMCVBNiVCNi0lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlOTglRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQjclRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlQjYlRTAlQTYlQkUlRTAlQTYlQjItMjUxNzM20gEA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMikAZodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODElRTAlQTYlQTMlRTAlQTclOEQlRTAlQTYlQUYvJUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE2JUJFLyVFMCVBNiU5QiVFMCVBNiVCRSVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVCMC0lRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODAlRTAlQTYlQTQlRTAlQTYlQkYtJUUwJUE2JTkzLSVFMCVBNiU4NSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRi8lRTAlQTYlOUIlRTAlQTYlQkUlRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjIlRTAlQTclODAlRTAlQTYlOTctJUUwJUE2JTg2JUUwJUE2JUE4JUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVCMiVFMCVBNiVCRiVFMCVBNiVCNi0lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlOTglRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQjclRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlQjYlRTAlQTYlQkUlRTAlQTYlQjItMjUxNzM20gEA?oc=5"/>
+        <updated>2021-08-19T04:29:08.000Z</updated>
+        <summary type="html"><![CDATA[ছাত্রলীগ-আনসার-পুলিশ সংঘর্ষে যোগাযোগ বিচ্ছিন্ন বরিশাল  thedailystar.net]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[মার্কিন পাসপোর্ট ছাড়া কাউকে বিমানবন্দরে যেতে দিচ্ছে না তালেবান - দৈনিক ইত্তেফাক]]></title>
+        <id>CBMimgRodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC93b3JsZG5ld3MvMjY4NzA1LyVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNiVCRiVFMCVBNiVBOC0lRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlQjglRTAlQTYlQUElRTAlQTclOEIlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JTlCJUUwJUE2JUJFJUUwJUE3JTlDJUUwJUE2JUJFLSVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiU4OSVFMCVBNiU5NSVFMCVBNyU4Ny0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTYlRTAlQTYlQjAlRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiVBNiVFMCVBNiVCRiVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQTglRTAlQTYlQkUtJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE40gEA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMimgRodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC93b3JsZG5ld3MvMjY4NzA1LyVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNiVCRiVFMCVBNiVBOC0lRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlQjglRTAlQTYlQUElRTAlQTclOEIlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JTlCJUUwJUE2JUJFJUUwJUE3JTlDJUUwJUE2JUJFLSVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiU4OSVFMCVBNiU5NSVFMCVBNyU4Ny0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTYlRTAlQTYlQjAlRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiVBNiVFMCVBNiVCRiVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQTglRTAlQTYlQkUtJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE40gEA?oc=5"/>
+        <updated>2021-08-19T04:29:00.000Z</updated>
+        <summary type="html"><![CDATA[মার্কিন পাসপোর্ট ছাড়া কাউকে বিমানবন্দরে যেতে দিচ্ছে না তালেবান  দৈনিক ইত্তেফাক]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[বাংলাদেশের দেওয়া লজ্জা ভুলে বিশ্বকাপে চোখ অস্ট্রেলিয়ার, শক্তিশালী স্কোয়াড ঘোষণা - কালের কন্ঠ]]></title>
         <id>CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOS8xMDY0OTE10gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOS8xMDY0OTE1</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOS8xMDY0OTE10gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xOS8xMDY0OTE1?oc=5"/>
         <updated>2021-08-19T03:53:00.000Z</updated>
         <summary type="html"><![CDATA[বাংলাদেশের দেওয়া লজ্জা ভুলে বিশ্বকাপে চোখ অস্ট্রেলিয়ার, শক্তিশালী স্কোয়াড ঘোষণা  কালের কন্ঠ]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আদালতে পরীমণি, রিমান্ড শুনানি দুপুরে - দৈনিক ইত্তেফাক]]></title>
+        <id>52781623183466</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiwwJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9jb3VydC8yNjg3MDAvJUUwJUE2JTg2JUUwJUE2JUE2JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiVBQSVFMCVBNiVCMCVFMCVBNyU4MCVFMCVBNiVBRSVFMCVBNiVBMyVFMCVBNiVCRi0lRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTEtJUUwJUE2JUI2JUUwJUE3JTgxJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGLSVFMCVBNiVBNiVFMCVBNyU4MSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVCMCVFMCVBNyU4N9IBAA?oc=5"/>
+        <updated>2021-08-19T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[আদালতে পরীমণি, রিমান্ড শুনানি দুপুরে  দৈনিক ইত্তেফাক
+পরীমনির জামিন শুনানি হয়নি, ফের রিমান্ডের আবেদন  bdnews24.com
+কারাগার থেকে আদালতে পরীমনি  কালের কন্ঠ
+পরীমনিকে কেন তৃতীয় দফায় রিমান্ডে নেওয়ার আবেদন, যা বলল সিআইডি ১৮ আগস্ট, ২০২১  Jugantor
+পরীমনির ফের রিমান্ড আবেদন, জামিন আবেদনের শুনানি পেছাল  দৈনিক আমাদেরসময়
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -124,11 +159,36 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[সব পর্যটনকেন্দ্র আজ খুলছে, মানতে হবে স্বাস্থ্যবিধি - দৈনিক ইত্তেফাক]]></title>
+        <id>52781625059733</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMisgNodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC90cmF2ZWwvMjY4NjkyLyVFMCVBNiVCOCVFMCVBNiVBQy0lRTAlQTYlQUElRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQUYlRTAlQTYlOUYlRTAlQTYlQTglRTAlQTYlOTUlRTAlQTclODclRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTYlRTAlQTclOEQlRTAlQTYlQjAtJUUwJUE2JTg2JUUwJUE2JTlDLSVFMCVBNiU5NiVFMCVBNyU4MSVFMCVBNiVCMiVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQTQlRTAlQTclODctJUUwJUE2JUI5JUUwJUE2JUFDJUUwJUE3JTg3LSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBQyVFMCVBNiVCRSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNSVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBNyVFMCVBNiVCRtIBAA?oc=5"/>
+        <updated>2021-08-19T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[সব পর্যটনকেন্দ্র আজ খুলছে, মানতে হবে স্বাস্থ্যবিধি  দৈনিক ইত্তেফাক
+পর্যটকদের জন্য উন্মুক্ত কক্সবাজার সৈকত  জাগো নিউজ
+খুলছে পর্যটনকেন্দ্র  এনটিভি
+সমুদ্রসৈকতে ভাঙলো নীরবতা  বাংলানিউজটোয়েন্টিফোর.কম
+আজ থেকে খুলছে পাহাড়ের সকল পর্যটন কেন্দ্র  দৈনিক ইত্তেফাক
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ই-অরেঞ্জের চিফ অপারেটিং অফিসার গ্রেপ্তার - কালের কন্ঠ]]></title>
         <id>CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA20gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA2</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA20gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA2?oc=5"/>
         <updated>2021-08-19T02:27:00.000Z</updated>
         <summary type="html"><![CDATA[ই-অরেঞ্জের চিফ অপারেটিং অফিসার গ্রেপ্তার  কালের কন্ঠ]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ক্লিনিক থেকে মডার্নার টিকা ও বিপুল পরিমাণ খালি বক্স উদ্ধার - কালের কন্ঠ]]></title>
+        <id>CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA00gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA0</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA00gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY0OTA0?oc=5"/>
+        <updated>2021-08-19T02:12:00.000Z</updated>
+        <summary type="html"><![CDATA[ক্লিনিক থেকে মডার্নার টিকা ও বিপুল পরিমাণ খালি বক্স উদ্ধার  কালের কন্ঠGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -218,6 +278,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ই-অরেঞ্জের চিফ অপারেটিং অফিসার আমানউল্লাহ গ্রেফতার - দৈনিক ইত্তেফাক]]></title>
+        <id>52781628187472</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMivANodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9jYXBpdGFsLzI2ODY3Ny8lRTAlQTYlODctJUUwJUE2JTg1JUUwJUE2JUIwJUUwJUE3JTg3JUUwJUE2JTlFJUUwJUE3JThEJUUwJUE2JTlDJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5QSVFMCVBNiVCRiVFMCVBNiVBQi0lRTAlQTYlODUlRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOUYlRTAlQTYlQkYlRTAlQTYlODItJUUwJUE2JTg1JUUwJUE2JUFCJUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU4NiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiU4OSVFMCVBNiVCMiVFMCVBNyU4RCVFMCVBNiVCMiVFMCVBNiVCRSVFMCVBNiVCOS0lRTAlQTYlOTclRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQUIlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjDSAQA?oc=5"/>
+        <updated>2021-08-18T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[ই-অরেঞ্জের চিফ অপারেটিং অফিসার আমানউল্লাহ গ্রেফতার  দৈনিক ইত্তেফাক
+ই-অরেঞ্জের মালিক সোনিয়া ও তার স্বামীর দেশত্যাগের নিষেধাজ্ঞা ১৮ আগস্ট, ২০২১  Jugantor
+ই-অরেঞ্জের মালিক সোনিয়াসহ ৫ জনের দেশত্যাগে নিষেধাজ্ঞা  জাগো নিউজ
+ই-অরেঞ্জের সিওও গ্রেপ্তার  bdnews24.com
+ই-অরেঞ্জের চিফ অপারেটিং অফিসার আমান উল্ল্যাহ গ্রেফতার  নয়া দিগন্ত
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[তালেবানের ভয়ে সার্টিফিকেট পুড়িয়ে ফেলছেন আফগান নারীরা! ১৯ আগস্ট, ২০২১ - Jugantor]]></title>
         <id>52781626951059</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi0gNodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTUzNzIvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRCVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQjglRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQkYlRTAlQTYlQUIlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTclODclRTAlQTYlOUYtJUUwJUE2JUFBJUUwJUE3JTgxJUUwJUE3JTlDJUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE3JTg3LSVFMCVBNiVBQiVFMCVBNyU4NyVFMCVBNiVCMiVFMCVBNiU5QiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTYlODYlRTAlQTYlQUIlRTAlQTYlOTclRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JTgwJUUwJUE2JUIwJUUwJUE2JUJF0gEA?oc=5"/>
@@ -277,6 +352,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 বসুন্ধরা কিংসকে ৪৮ লাখ টাকা ক্ষতিপূরণ দিচ্ছে এএফসি  বাংলানিউজটোয়েন্টিফোর.কম
 কিংসের সামনে মাজিয়ার চ্যালেঞ্জ  কালের কন্ঠ
 'সেরা হতে হবে', দলকে কিংস কোচের বার্তা  bdnews24.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আফগানিস্তানে গণতান্ত্রিক ব্যবস্থা থাকবে না: তালেবান - bdnews24.com]]></title>
+        <id>52781628757221</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS93b3JsZC9hcnRpY2xlMTkyODIwOC5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvd29ybGQvMTkyODIwOA?oc=5"/>
+        <updated>2021-08-18T18:16:36.000Z</updated>
+        <summary type="html"><![CDATA[আফগানিস্তানে গণতান্ত্রিক ব্যবস্থা থাকবে না: তালেবান  bdnews24.com
+যে পথে হেঁটে তালেবান আজ ক্ষমতায়  প্রথম আলো
+তালেবান যোদ্ধাদের সামনে আফগান নারীদের প্রতিবাদ (ভিডিও)  Bangla Tribune
+তালেবানের জয়ের পর আফগানিস্তান কোথায়?  নয়া দিগন্ত
+তালেবান আসলে কারা?  জাগো নিউজ
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -507,6 +597,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ক্ষমতাচ্যুত আফগান প্রেসিডেন্ট গানি আমিরাতে - Dhakatimes24]]></title>
+        <id>52781627855843</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiiQNodHRwczovL3d3dy5kaGFrYXRpbWVzMjQuY29tLzIwMjEvMDgvMTgvMjI2NTgxLyVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCNyVFMCVBNiVBRSVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiVBNC0lRTAlQTYlODYlRTAlQTYlQUIlRTAlQTYlOTclRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE3JTg3JUUwJUE2JUI4JUUwJUE2JUJGJUUwJUE2JUExJUUwJUE3JTg3JUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JTlGLSVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRi0lRTAlQTYlODYlRTAlQTYlQUUlRTAlQTYlQkYlRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQTQlRTAlQTclODfSAQA?oc=5"/>
+        <updated>2021-08-18T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ক্ষমতাচ্যুত আফগান প্রেসিডেন্ট গানি আমিরাতে  Dhakatimes24
+আশরাফ গনি ইউএইতে, বিপুল অর্থ সঙ্গে নেওয়ার অভিযোগ অস্বীকার  প্রথম আলো
+অবশেষে জানা গেল আশরাফ গনির অবস্থান ১৮ আগস্ট, ২০২১  Jugantor
+আমিরাতে ‘মানবিক আশ্রয়’ পেলেন আশরাফ গানি  জাগো নিউজ
+প্রায় দেড় হাজার কোটি টাকা নিয়ে পালিয়েছেন ঘানি  এনটিভি
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[আফগানিস্তান ছেড়ে পালানো আশরাফ গানি আবু ধাবিতে - bdnews24.com]]></title>
         <id>52781627855843</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS93b3JsZC9hcnRpY2xlMTkyODEzMy5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvd29ybGQvMTkyODEzMw?oc=5"/>
@@ -583,6 +688,18 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 গোপনে বাগদান সেরে ফেললেন ভিকি-ক্যাটরিনা! ভাইরাল ছবি ঘিরে হুলুস্থুলু  HT Bangla
 Katrina Kaif: বিয়ে করছেন ভিকি কৌশল এবং ক্যাটরিনা কইফ? জবাব এল ‘শিলা’-র পক্ষ থেকে  Anandabazar Patrika
 গোপনে বাগদান সেরেছেন ক্যাটরিনা-ভিকি?  এনটিভি
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Srabanti Chatterjee: প্রকাশ্যে এল শ্রাবন্তী-অভিরূপের অন্তরঙ্গ উৎসবের ছবি, উধাও বিচ্ছেদের গুঞ্জন - Anandabazar Patrika]]></title>
+        <id>52781628349975</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL3d3dy5hbmFuZGFiYXphci5jb20vZW50ZXJ0YWlubWVudC9zcmFiYW50aS1jaGF0dGVyamVlLWFuZC1hYmhpcnVwLW5hZy1jaG91ZGh1cnktY2VsZWJyYXRlZC1wb2lsYS1ib2lzaGFraC10b2dldGhlci1waWN0dXJlcy1nby12aXJhbC1kZ3RsL2NpZC8xMjk5MDgz0gGhAWh0dHBzOi8vd3d3LmFuYW5kYWJhemFyLmNvbS9hbXAvZW50ZXJ0YWlubWVudC9zcmFiYW50aS1jaGF0dGVyamVlLWFuZC1hYmhpcnVwLW5hZy1jaG91ZGh1cnktY2VsZWJyYXRlZC1wb2lsYS1ib2lzaGFraC10b2dldGhlci1waWN0dXJlcy1nby12aXJhbC1kZ3RsL2NpZC8xMjk5MDgz?oc=5"/>
+        <updated>2021-08-18T15:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Srabanti Chatterjee: প্রকাশ্যে এল শ্রাবন্তী-অভিরূপের অন্তরঙ্গ উৎসবের ছবি, উধাও বিচ্ছেদের গুঞ্জন  Anandabazar Patrika
+প্রকাশ্যে অভিরূপ-শ্রাবন্তীর অন্তরঙ্গ পার্টির ছবি, বিচ্ছেদের গুঞ্জন উধাও নিমেষে  HT Bangla
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
