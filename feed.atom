@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-20T20:13:25.845Z</updated>
+    <updated>2021-08-20T21:11:50.774Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
+        <id>CBMi1AZodHRwczovL20ucHJpeW8uY29tL2UvMzQ1NjM0MS0lRTAlQTYlOUElRTAlQTclOEQlRTAlQTYlQUYlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQjglRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1JUUwJUE3JTg3JUUwJUE2JUIyLSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTElRTAlQTclODclRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JUFEJUUwJUE3JThEJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE2JUJGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVBNCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlOTklRTAlQTclOEQlRTAlQTYlOTclRTAlQTclODctJUUwJUE2JUI4JUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUI3LSVFMCVBNiVBQyVFMCVBNyU4OCVFMCVBNiVBMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQUYtJUUwJUE2JThGJUUwJUE2JTk2JUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNyU4QiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTclOUYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTjSAQA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi1AZodHRwczovL20ucHJpeW8uY29tL2UvMzQ1NjM0MS0lRTAlQTYlOUElRTAlQTclOEQlRTAlQTYlQUYlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQjglRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1JUUwJUE3JTg3JUUwJUE2JUIyLSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTElRTAlQTclODclRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JUFEJUUwJUE3JThEJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE2JUJGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVBNCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlOTklRTAlQTclOEQlRTAlQTYlOTclRTAlQTclODctJUUwJUE2JUI4JUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUI3LSVFMCVBNiVBQyVFMCVBNyU4OCVFMCVBNiVBMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQUYtJUUwJUE2JThGJUUwJUE2JTk2JUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNyU4QiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTclOUYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTjSAQA?oc=5"/>
+        <updated>2021-08-20T19:32:00.000Z</updated>
+        <summary type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ  প্রিয়.কম]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ranveer Singh-Alia Bhatt: রকি আর রানির প্রেমকাহিনির শ্যুটিং শুরু রণবীর-আলিয়ার, দেখুন নতুন লুকের ভিডিও - News18 বাংলা]]></title>
         <id>52781631250687</id>
@@ -15,6 +25,21 @@
 ইনস্টাগ্রামে আলিয়ার নতুন ছবি, পিছনে কাকে মুখ ডুবিয়ে চুমু খাচ্ছেন রণবীর?  HT Bangla
 ঘাড় চেপে ধরে কাকে ঠোঁটে চুমু খাচ্ছেন রণবীর, আলিয়ার ছবিতে ফাঁস সিক্রেট, কে এই রহস্যময়ী  Asianet News Bangla
 লাইট, ক্যামেরা, অ্যাকশন..! সকলের আশীর্বাদ নিয়ে শুরু করল ‘রকি অউর রানি..' পথচলা  HT Bangla
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[২১ অগাস্ট: ভয়ঙ্কর সন্ত্রাসের সেই দিনটিও ছিল শনিবার - bdnews24.com]]></title>
+        <id>52781631538604</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9iYW5nbGFkZXNoL2FydGljbGUxOTI4NTUxLmJkbmV3c9IBN2h0dHBzOi8vbS5iZG5ld3MyNC5jb20vYW1wL2JuL2RldGFpbC9iYW5nbGFkZXNoLzE5Mjg1NTE?oc=5"/>
+        <updated>2021-08-20T18:12:23.000Z</updated>
+        <summary type="html"><![CDATA[২১ অগাস্ট: ভয়ঙ্কর সন্ত্রাসের সেই দিনটিও ছিল শনিবার  bdnews24.com
+রক্তাক্ত বিভীষিকাময় সেই দিন আজ  প্রথম আলো
+গ্রেনেড হামলা মামলার রায় দ্রুতই কার্যকর হবে, আশা প্রধানমন্ত্রীর ২০ আগস্ট, ২০২১  Jugantor
+ইতিহাসের আরেকটি রক্তাক্ত অধ্যায় ২১ আগস্ট  বাংলানিউজটোয়েন্টিফোর.কম
+ডেঙ্গু: ২০ দিনেই ১৯ মৃত্যু, শনাক্ত ৪৮১৪  Bangla Tribune
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -609,6 +634,18 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[কফি ডেটে নুসরাত-যশ - সারাবাংলা]]></title>
+        <id>52781631473073</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiJmh0dHBzOi8vc2FyYWJhbmdsYS5uZXQvcG9zdC9zYi01ODU1MDMv0gEA?oc=5"/>
+        <updated>2021-08-20T10:50:50.000Z</updated>
+        <summary type="html"><![CDATA[কফি ডেটে নুসরাত-যশ  সারাবাংলা
+Yashর সঙ্গেই কফি ডেটে Nusrat? হবু মায়ের মুড ভাল রাখতেই ছোট্ট ট্রিট  Zee ২৪ ঘণ্টা
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ক্যাটরিনার বিয়ের গুঞ্জন! ফাইল ছবি - Jugantor]]></title>
         <id>52781627981302</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi8wFodHRwczovL3d3dy5qdWdhbnRvci5jb20vZW50ZXJ0YWlubWVudC80NTYwMDAvJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE2JUJFJUUwJUE2JTlGJUUwJUE2JUIwJUUwJUE2JUJGJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOTclRTAlQTclODElRTAlQTYlOUUlRTAlQTclOEQlRTAlQTYlOUMlRTAlQTYlQTglQzIlQTDSAQA?oc=5"/>
@@ -769,6 +806,16 @@ Gold Price Today: অনেকটাই দাম বাড়ল সোনা �
 বড়সড় পতনের পরদিন আবারও সোনা ও রুপোর দাম  HT Bangla
 বুধবার দাম বাড়ল সোনার, তাও রেকর্ডের থেকে ৯,০০০ টাকা মতো সস্তা  HT Bangla
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[স্বামীকে হত্যা করে দুই সন্তান নিয়ে পালিয়েছেন স্ত্রী ৭ ঘণ্টা আগে - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
+        <id>CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vbmF0aW9uYWwvbmV3cy9iZC84NzUxNTAuZGV0YWlsc9IBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vbmF0aW9uYWwvbmV3cy9iZC84NzUxNTAuZGV0YWlsc9IBAA?oc=5"/>
+        <updated>2021-08-20T09:32:58.000Z</updated>
+        <summary type="html"><![CDATA[স্বামীকে হত্যা করে দুই সন্তান নিয়ে পালিয়েছেন স্ত্রী ৭ ঘণ্টা আগে  বাংলানিউজটোয়েন্টিফোর.কম]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -10724,85 +10771,6 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vbmF0aW9uYWwvbmV3cy9iZC84NzQ0MjEuZGV0YWlsc9IBAA?oc=5"/>
         <updated>2021-08-16T09:21:38.000Z</updated>
         <summary type="html"><![CDATA[আফগানিস্তানে বিমানের ফ্লাইট চেয়ে প্রস্তাব যুক্তরাষ্ট্রের  বাংলানিউজটোয়েন্টিফোর.কম]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[পুরো মন্ত্রিসভা নিয়ে মালয়েশিয়ার প্রধানমন্ত্রীর পদত্যাগ - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
-        <id>52781622613694</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vaW50ZXJuYXRpb25hbC9uZXdzL2JkLzg3NDQxNy5kZXRhaWxz0gEA?oc=5"/>
-        <updated>2021-08-16T08:56:12.000Z</updated>
-        <summary type="html"><![CDATA[পুরো মন্ত্রিসভা নিয়ে মালয়েশিয়ার প্রধানমন্ত্রীর পদত্যাগ  বাংলানিউজটোয়েন্টিফোর.কম
-মালয়েশিয়ার প্রধানমন্ত্রী আজ পদত্যাগ করছেন!  দৈনিক ইত্তেফাক
-পদত্যাগপত্র জমা দিতে রাজপ্রাসাদে মালয়েশিয়ার প্রধানমন্ত্রী ১৬ আগস্ট, ২০২১  Jugantor
-মহিউদ্দিন ইয়াসিনের পদত্যাগ  নয়া দিগন্ত
-সোমবার পদত্যাগ করবেন  বাংলানিউজটোয়েন্টিফোর.কম
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কাবুলে দোকানপাট বন্ধ, রাস্তা জনশূন্য - bdnews24.com]]></title>
-        <id>CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS93b3JsZC9hcnRpY2xlMTkyNzA3Ny5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvd29ybGQvMTkyNzA3Nw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS93b3JsZC9hcnRpY2xlMTkyNzA3Ny5iZG5ld3PSATJodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvd29ybGQvMTkyNzA3Nw?oc=5"/>
-        <updated>2021-08-16T08:53:29.000Z</updated>
-        <summary type="html"><![CDATA[কাবুলে দোকানপাট বন্ধ, রাস্তা জনশূন্য  bdnews24.com]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[এবার কাবুল দূতাবাস থেকে কর্মী সরানোর ঘোষণা রাশিয়ার - The Daily Star Bangla]]></title>
-        <id>52781624300266</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi9gRodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTYvJUUwJUE2JThGJUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFLyVFMCVBNiVBNiVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCNyVFMCVBNiVCRiVFMCVBNiVBMy0lRTAlQTYlOEYlRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTclOUYlRTAlQTYlQkUvJUUwJUE2JThGJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVBQyVFMCVBNyU4MSVFMCVBNiVCMi0lRTAlQTYlQTYlRTAlQTclODIlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQjgtJUUwJUE2JUE1JUUwJUE3JTg3JUUwJUE2JTk1JUUwJUE3JTg3LSVFMCVBNiU5NSVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVBRSVFMCVBNyU4MC0lRTAlQTYlQjglRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEIlRTAlQTYlQjAtJUUwJUE2JTk4JUUwJUE3JThCJUUwJUE2JUI3JUUwJUE2JUEzJUUwJUE2JUJFLSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNiVCMC0yNTA3NDHSAQA?oc=5"/>
-        <updated>2021-08-16T08:52:47.000Z</updated>
-        <summary type="html"><![CDATA[এবার কাবুল দূতাবাস থেকে কর্মী সরানোর ঘোষণা রাশিয়ার  The Daily Star Bangla
-বিমানে উঠতে কাবুল বিমানবন্দরে 'হুড়োহুড়ি', নিহত ৫ (ভিডিও) ১৬ আগস্ট, ২০২১  Jugantor
-কাবুল বিমানবন্দরে সহিংসতা নিহত ৫  দৈনিক ইত্তেফাক
-পালিয়ে যাওয়ার পর আশরাফ গণি এখন যা বলছেন  mzamin.com
-কাবুল বিমানবন্দরে ফাঁকা গুলি ছুড়েছে যুক্তরাষ্ট্রের সেনারা  bdnews24.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বিমানকে আফগানিস্তানে ফ্লাইট পরিচালনার প্রস্তাব যুক্তরাষ্ট্রের - The Daily Star Bangla]]></title>
-        <id>52781624471319</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi0AZodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQjglRTAlQTclODcvJUUwJUE2JUFGJUUwJUE2JUJFJUUwJUE2JTkzJUUwJUE3JTlGJUUwJUE2JUJFLSVFMCVBNiU4NiVFMCVBNiVCOCVFMCVBNiVCRS8lRTAlQTYlOEYlRTAlQTclOUYlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlODclRTAlQTYlQTglRTAlQTYlQjgtJUUwJUE2JTkzLSVFMCVBNiU4NSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRi8lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3LSVFMCVBNiVBQiVFMCVBNyU4RCVFMCVBNiVCMiVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiU5Ri0lRTAlQTYlQUElRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlOUElRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUFDLSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiU5RiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCMNIBAA?oc=5"/>
-        <updated>2021-08-16T08:39:08.000Z</updated>
-        <summary type="html"><![CDATA[বিমানকে আফগানিস্তানে ফ্লাইট পরিচালনার প্রস্তাব যুক্তরাষ্ট্রের  The Daily Star Bangla
-আফগানিস্তান থেকে ৪৫ হাজার মানুষ উদ্ধারে বিমান বাংলাদেশকে প্রস্তাব যুক্তরাষ্ট্রের  Jugantor
-আফগানিস্তানে বিমানের ফ্লাইট চেয়ে প্রস্তাব যুক্তরাষ্ট্রের  বাংলানিউজটোয়েন্টিফোর.কম
-আফগানিস্তান ইস্যুতে যুক্তরাষ্ট্রের প্রস্তাব প্রত্যাখ্যান করলো বাংলাদেশ  দৈনিক ইত্তেফাক
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কাবুল বিমানবন্দরে সহিংসতা নিহত ৫ - দৈনিক ইত্তেফাক]]></title>
-        <id>52781624300266</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMirAJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC93b3JsZG5ld3MvMjY3OTE2LyVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVBQyVFMCVBNyU4MSVFMCVBNiVCMi0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTYlRTAlQTYlQjAlRTAlQTclODctJUUwJUE2JUI4JUUwJUE2JUI5JUUwJUE2JUJGJUUwJUE2JTgyJUUwJUE2JUI4JUUwJUE2JUE0JUUwJUE2JUJFLSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOSVFMCVBNiVBNC0lRTAlQTclQULSAQA?oc=5"/>
-        <updated>2021-08-16T08:33:00.000Z</updated>
-        <summary type="html"><![CDATA[কাবুল বিমানবন্দরে সহিংসতা নিহত ৫  দৈনিক ইত্তেফাক
-কাবুল বিমানবন্দরে ফাঁকা গুলি ছুড়েছে যুক্তরাষ্ট্রের সেনারা  bdnews24.com
-কাবুল বিমানবন্দরে যুক্তরাষ্ট্রের সেনাদের ফাঁকা গুলি  Jugantor
-কাবুল বিমানবন্দরে মার্কিন বাহিনীর গুলি, নিহত পাঁচ  কালের কন্ঠ
-কাবুল বিমানবন্দরে গোলাগুলি, নিহত ৫  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[গুলশান থেকে ফিলিপিনো নাগরিকের মরদেহ উদ্ধার - জাগো নিউজ]]></title>
-        <id>CBMiL2h0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL25hdGlvbmFsL25ld3MvNjkyMDAz0gElaHR0cHM6Ly93d3cuamFnb25ld3MyNC5jb20vYW1wLzY5MjAwMw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL25hdGlvbmFsL25ld3MvNjkyMDAz0gElaHR0cHM6Ly93d3cuamFnb25ld3MyNC5jb20vYW1wLzY5MjAwMw?oc=5"/>
-        <updated>2021-08-16T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[গুলশান থেকে ফিলিপিনো নাগরিকের মরদেহ উদ্ধার  জাগো নিউজ]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
