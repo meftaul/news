@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-20T23:13:10.145Z</updated>
+    <updated>2021-08-21T00:41:09.333Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
@@ -19,11 +19,34 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ঝুঁকিতে থাকা নাগরিকদের দ্রুত সরিয়ে নেওয়ার অঙ্গীকার - Jugantor]]></title>
+        <id>CBMiwANodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTYwNjAvJUUwJUE2JTlEJUUwJUE3JTgxJUUwJUE2JTgxJUUwJUE2JTk1JUUwJUE2JUJGJUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiVBNSVFMCVBNiVCRSVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlOTclRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE3JTgxJUUwJUE2JUE0LSVFMCVBNiVCOCVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQTglRTAlQTclODclRTAlQTYlOTMlRTAlQTclOUYlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JTg1JUUwJUE2JTk5JUUwJUE3JThEJUUwJUE2JTk3JUUwJUE3JTgwJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUIw0gEA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiwANodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTYwNjAvJUUwJUE2JTlEJUUwJUE3JTgxJUUwJUE2JTgxJUUwJUE2JTk1JUUwJUE2JUJGJUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiVBNSVFMCVBNiVCRSVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlOTclRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE3JTgxJUUwJUE2JUE0LSVFMCVBNiVCOCVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQTglRTAlQTclODclRTAlQTYlOTMlRTAlQTclOUYlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JTg1JUUwJUE2JTk5JUUwJUE3JThEJUUwJUE2JTk3JUUwJUE3JTgwJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUIw0gEA?oc=5"/>
+        <updated>2021-08-20T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ঝুঁকিতে থাকা নাগরিকদের দ্রুত সরিয়ে নেওয়ার অঙ্গীকার  Jugantor]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
         <id>CBMi1AZodHRwczovL20ucHJpeW8uY29tL2UvMzQ1NjM0MS0lRTAlQTYlOUElRTAlQTclOEQlRTAlQTYlQUYlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQjglRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1JUUwJUE3JTg3JUUwJUE2JUIyLSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTElRTAlQTclODclRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JUFEJUUwJUE3JThEJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE2JUJGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVBNCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlOTklRTAlQTclOEQlRTAlQTYlOTclRTAlQTclODctJUUwJUE2JUI4JUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUI3LSVFMCVBNiVBQyVFMCVBNyU4OCVFMCVBNiVBMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQUYtJUUwJUE2JThGJUUwJUE2JTk2JUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNyU4QiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTclOUYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTjSAQA</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi1AZodHRwczovL20ucHJpeW8uY29tL2UvMzQ1NjM0MS0lRTAlQTYlOUElRTAlQTclOEQlRTAlQTYlQUYlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQjglRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1JUUwJUE3JTg3JUUwJUE2JUIyLSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTElRTAlQTclODclRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlOUYtJUUwJUE2JUFEJUUwJUE3JThEJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE2JUJGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIwLSVFMCVBNiVBQSVFMCVBNyU4MSVFMCVBNiVBNCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlOTklRTAlQTclOEQlRTAlQTYlOTclRTAlQTclODctJUUwJUE2JUI4JUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUI3LSVFMCVBNiVBQyVFMCVBNyU4OCVFMCVBNiVBMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQUYtJUUwJUE2JThGJUUwJUE2JTk2JUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNyU4QiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQjAlRTAlQTclOUYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTjSAQA?oc=5"/>
         <updated>2021-08-20T19:32:00.000Z</updated>
         <summary type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ  প্রিয়.কম]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[বরিশালের কাউন্সিলর মান্নাকে তুলে নেওয়ার অভিযোগ - Bangla Tribune]]></title>
+        <id>52781631988171</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMimwNodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTcwODQvJUUwJUE2JUFDJUUwJUE2JUIwJUUwJUE2JUJGJUUwJUE2JUI2JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiU4OSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVCMiVFMCVBNiVCMC0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JUE0JUUwJUE3JTgxJUUwJUE2JUIyJUUwJUE3JTg3LSVFMCVBNiVBOCVFMCVBNyU4NyVFMCVBNiU5MyVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlODUlRTAlQTYlQUQlRTAlQTYlQkYlRTAlQTYlQUYlRTAlQTclOEIlRTAlQTYlOTfSAZ8DaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5NzA4NC8lRTAlQTYlQUMlRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlQjYlRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JTg5JUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JUI4JUUwJUE2JUJGJUUwJUE2JUIyJUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiU5NSVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQjIlRTAlQTclODctJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JTkzJUUwJUE3JTlGJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU4NSVFMCVBNiVBRCVFMCVBNiVCRiVFMCVBNiVBRiVFMCVBNyU4QiVFMCVBNiU5Nw?oc=5"/>
+        <updated>2021-08-20T19:23:20.000Z</updated>
+        <summary type="html"><![CDATA[বরিশালের কাউন্সিলর মান্নাকে তুলে নেওয়ার অভিযোগ  Bangla Tribune
+বরিশালের কাউন্সিলর মান্নাকে তুলে নিয়ে যাওয়ার অভিযোগ ২০ আগস্ট, ২০২১  Jugantor
+বরিশালের কাউন্সিলর মান্নাকে তুলে নেয়ার অভিযোগ  নয়া দিগন্ত
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -35,6 +58,31 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <updated>2021-08-20T19:06:00.000Z</updated>
         <summary type="html"><![CDATA[নায়করাজ রাজ্জাককে হারানোর ৪ বছর  দৈনিক ইত্তেফাক
 নায়ক রাজের  বাংলানিউজটোয়েন্টিফোর.কম
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anushka Sharma | Virat Kohli: মিষ্টি হাসিতে মন জয় অনুষ্কার ! বিরাট ও ভামিকাকে নিয়ে ইংল্যান্ড থেকে ছবি পোস্ট... - News18 বাংলা]]></title>
+        <id>CAIiEPiAnw7m5JDU8zPYeCSlgSkqGQgEKhAIACoHCAowyY-GCzDp44MDMK7WigY</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL2JlbmdhbGkubmV3czE4LmNvbS9waG90b2dhbGxlcnkvZW50ZXJ0YWlubWVudC9hbnVzaGthLXNoYXJtYS1zYXlzLWhpLXRvLWZhbnMtd2l0aC1oZXItbWlsbGlvbi1kb2xsYXItc21pbGUtZnJvbS1lbmdsYW5kLXBiLTY0NTczMS5odG1s0gGSAWh0dHBzOi8vYmVuZ2FsaS5uZXdzMTguY29tL2FtcC9waG90b2dhbGxlcnkvZW50ZXJ0YWlubWVudC9hbnVzaGthLXNoYXJtYS1zYXlzLWhpLXRvLWZhbnMtd2l0aC1oZXItbWlsbGlvbi1kb2xsYXItc21pbGUtZnJvbS1lbmdsYW5kLXBiLTY0NTczMS5odG1s?oc=5"/>
+        <updated>2021-08-20T18:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Anushka Sharma | Virat Kohli: মিষ্টি হাসিতে মন জয় অনুষ্কার ! বিরাট ও ভামিকাকে নিয়ে ইংল্যান্ড থেকে ছবি পোস্ট...  News18 বাংলা]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[হত্যা-চক্রান্তের কলঙ্কিত দিন - দৈনিক আমাদেরসময়]]></title>
+        <id>52781631538604</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzE2MTjSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMxNjE4?oc=5"/>
+        <updated>2021-08-20T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[হত্যা-চক্রান্তের কলঙ্কিত দিন  দৈনিক আমাদেরসময়
+গ্রেনেড হামলা মামলার রায় দ্রুতই কার্যকর হবে, আশা প্রধানমন্ত্রীর  Jugantor
+২১ অগাস্ট: ভয়ঙ্কর সন্ত্রাসের সেই দিনটিও ছিল শনিবার  bdnews24.com
+ভয়াল ২১ আগস্ট আজ  দৈনিক ইত্তেফাক
+দ্রুত গ্রেনেড হামলা মামলায় রায় কার্যকর হবে : প্রধানমন্ত্রী  কালের কন্ঠ
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -258,6 +306,19 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 ই-অরেঞ্জের ১১০০ কোটি টাকা আত্মসাতের বিষয়টি অনুসন্ধানে সিআইডি  জাগো নিউজ
 ই-অরেঞ্জের মালিকানা বদলের ধোঁকা!  কালের কন্ঠ
 ই-অরেঞ্জের আমানউল্লাহর রিমান্ড শুনানি ২৩ অগাস্ট  bdnews24.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[নায়ক রাজের - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
+        <id>52781631821835</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vZW50ZXJ0YWlubWVudC9uZXdzL2JkLzg3NTE5My5kZXRhaWxz0gEA?oc=5"/>
+        <updated>2021-08-20T15:04:18.000Z</updated>
+        <summary type="html"><![CDATA[নায়ক রাজের  বাংলানিউজটোয়েন্টিফোর.কম
+নায়করাজ রাজ্জাককে হারানোর ৪ বছর  দৈনিক ইত্তেফাক
+রাজ রাজ্জাক ছিলেন আমার মাথার ওপর সুবিশাল আকাশ: শাকিব  দৈনিক ইত্তেফাক
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -10261,263 +10322,6 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL2JlbmdhbGkvZW50ZXJ0YWlubWVudC9iaWdnLWJvc3Mtb3R0LW5laGEtYmhhc2luLWtpc3Nlcy1yaWRoaW1hLXBhbmRpdC1uZXRpemVucy1hc2steWUta3lhLWhvLXJhaGEtaGFpXzM5ODc3My5odG1s0gGPAWh0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vYmVuZ2FsaS9lbnRlcnRhaW5tZW50L2JpZ2ctYm9zcy1vdHQtbmVoYS1iaGFzaW4ta2lzc2VzLXJpZGhpbWEtcGFuZGl0LW5ldGl6ZW5zLWFzay15ZS1reWEtaG8tcmFoYS1oYWlfMzk4NzczLmh0bWwvYW1w?oc=5"/>
         <updated>2021-08-16T12:44:56.000Z</updated>
         <summary type="html"><![CDATA[ঋদ্ধিমার ঠোঁটে ঠোঁট নেহার, Bigg Boss OTT ঘিরে নেটিজেনদের প্রশ্ন, বলি হচ্ছে টা কী?  Zee ২৪ ঘণ্টা]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আরও ১৭৪ জনের মৃত্যু - Channel i]]></title>
-        <id>CBMiswFodHRwczovL3d3dy5jaGFubmVsaW9ubGluZS5jb20vJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgxL9IBtwFodHRwczovL3d3dy5jaGFubmVsaW9ubGluZS5jb20vYW1wLyVFMCVBNiU4NiVFMCVBNiVCMCVFMCVBNiU5My0lRTAlQTclQTclRTAlQTclQUQlRTAlQTclQUEtJUUwJUE2JTlDJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNyU4MyVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNyU4MS8</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiswFodHRwczovL3d3dy5jaGFubmVsaW9ubGluZS5jb20vJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgxL9IBtwFodHRwczovL3d3dy5jaGFubmVsaW9ubGluZS5jb20vYW1wLyVFMCVBNiU4NiVFMCVBNiVCMCVFMCVBNiU5My0lRTAlQTclQTclRTAlQTclQUQlRTAlQTclQUEtJUUwJUE2JTlDJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNyU4MyVFMCVBNiVBNCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNyU4MS8?oc=5"/>
-        <updated>2021-08-16T12:41:00.000Z</updated>
-        <summary type="html"><![CDATA[আরও ১৭৪ জনের মৃত্যু  Channel iGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কোভিড: আরও ১৭৪ মৃত্যু, ৬৯৫৯ জন শনাক্ত - bdnews24.com]]></title>
-        <id>52781623500737</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9jb3JvbmF2aXJ1cy1wYW5kZW1pYy9hcnRpY2xlMTkyNjk3Ny5iZG5ld3PSAUFodHRwczovL20uYmRuZXdzMjQuY29tL2FtcC9ibi9kZXRhaWwvY29yb25hdmlydXMtcGFuZGVtaWMvMTkyNjk3Nw?oc=5"/>
-        <updated>2021-08-16T12:36:53.000Z</updated>
-        <summary type="html"><![CDATA[কোভিড: আরও ১৭৪ মৃত্যু, ৬৯৫৯ জন শনাক্ত  bdnews24.com
-একদিনে শনাক্ত প্রায় ৭ হাজার  জাগো নিউজ
-আগে বিশ্ববিদ্যালয় খুলতে পারে, মাধ্যমিক ধাপে ধাপে  প্রথম আলো
-দেশে করোনায় মৃত্যু ২৪ হাজার ছাড়ালো  দৈনিক ইত্তেফাক
-দেশে করোনা শনাক্তের চেয়ে বাড়ছে সুস্থতার হার  দৈনিক ইত্তেফাক
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আফগানিস্তান থেকে ৪৫ হাজার মানুষ উদ্ধারে বিমান বাংলাদেশকে প্রস্তাব যুক্তরাষ্ট্রের - Jugantor]]></title>
-        <id>CBMisQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU0NTY0LyVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODctJUUwJUE3JUFBJUUwJUE3JUFCLSVFMCVBNiVCOSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODElRTAlQTYlQjctJUUwJUE2JTg5JUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUFDLSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiU5RiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCMNIBAA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMisQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU0NTY0LyVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODctJUUwJUE3JUFBJUUwJUE3JUFCLSVFMCVBNiVCOSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODElRTAlQTYlQjctJUUwJUE2JTg5JUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTYlOTUlRTAlQTclODctJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUFDLSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiU5RiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCMNIBAA?oc=5"/>
-        <updated>2021-08-16T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[আফগানিস্তান থেকে ৪৫ হাজার মানুষ উদ্ধারে বিমান বাংলাদেশকে প্রস্তাব যুক্তরাষ্ট্রের  Jugantor]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
-        <id>CBMi6AFodHRwczovL20ucHJpeW8uY29tL2UvMzQ0NDU0Ni0lRTAlQTYlOTUlRTAlQTYlQjAlRTAlQTclOEIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgx0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi6AFodHRwczovL20ucHJpeW8uY29tL2UvMzQ0NDU0Ni0lRTAlQTYlOTUlRTAlQTYlQjAlRTAlQTclOEIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgx0gEA?oc=5"/>
-        <updated>2021-08-16T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ  প্রিয়.কম]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[করোনায় একদিনে আরও ১৭৪ মৃত্যু, শনাক্ত ৬৯৫৯ - Bangla Tribune]]></title>
-        <id>52781624840627</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiuAFodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTYyNTgvJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgx0gG8AWh0dHBzOi8vd3d3LmJhbmdsYXRyaWJ1bmUuY29tL2FtcC82OTYyNTgvJUUwJUE2JTg2JUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlOUMlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgx?oc=5"/>
-        <updated>2021-08-16T12:31:52.000Z</updated>
-        <summary type="html"><![CDATA[করোনায় একদিনে আরও ১৭৪ মৃত্যু, শনাক্ত ৬৯৫৯  Bangla Tribune
-করোনায় আরো ১৭৪ জনের মৃত্যু  নয়া দিগন্ত
-করোনায় এক দিনে ১৭৪ জনের মৃত্যু  দৈনিক আমাদেরসময়
-দেশে করোনা শনাক্তের চেয়ে বাড়ছে সুস্থতার হার  দৈনিক ইত্তেফাক
-২৪ ঘণ্টায় মৃত্যু ১৭৪, শনাক্ত ২১.০৮ শতাংশ  The Daily Star Bangla
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[করোনায় এক দিনে ১৭৪ জনের মৃত্যু - দৈনিক আমাদেরসময়]]></title>
-        <id>52781623500737</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzA5NTHSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMwOTUx?oc=5"/>
-        <updated>2021-08-16T12:31:16.000Z</updated>
-        <summary type="html"><![CDATA[করোনায় এক দিনে ১৭৪ জনের মৃত্যু  দৈনিক আমাদেরসময়
-করোনায় আরও ১৮৭ জনের মৃত্যু, প্রাণহানি ২৪ হাজার ছাড়াল  mzamin.com
-আগে বিশ্ববিদ্যালয় খুলতে পারে, মাধ্যমিক ধাপে ধাপে  প্রথম আলো
-দেশে করোনায় আরো ১৮৭ জনের মৃত্যু  নয়া দিগন্ত
-তিন জেলায় আরও ৪২ জনের মৃত্যু  mzamin.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[টানা ৪ দিন করোনায় মৃত্যু দুই শর নিচে, শনাক্ত প্রায় ৭ হাজার - কালের কন্ঠ]]></title>
-        <id>CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xNi8xMDY0MDE30gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xNi8xMDY0MDE3</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xNi8xMDY0MDE30gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xNi8xMDY0MDE3?oc=5"/>
-        <updated>2021-08-16T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[টানা ৪ দিন করোনায় মৃত্যু দুই শর নিচে, শনাক্ত প্রায় ৭ হাজার  কালের কন্ঠ]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[২৪ ঘণ্টায় মৃত্যু ১৭৪, শনাক্ত ২১.০৮ শতাংশ - The Daily Star Bangla]]></title>
-        <id>52781624840627</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMihwRodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTUlRTAlQTclOEQlRTAlQTYlQUYvJUUwJUE2JTk1JUUwJUE2JUIwJUUwJUE3JThCJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUIwJUUwJUE2JUJFJUUwJUE2JUI4LyVFMCVBNyVBOCVFMCVBNyVBQS0lRTAlQTYlOTglRTAlQTYlQTMlRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JUFFJUUwJUE3JTgzJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTgxLSVFMCVBNyVBNyVFMCVBNyVBRCVFMCVBNyVBQS0lRTAlQTYlQjYlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQTQtJUUwJUE3JUE4JUUwJUE3JUE3JUUwJUE3JUE2JUUwJUE3JUFFLSVFMCVBNiVCNiVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiU4MiVFMCVBNiVCNi0yNTA4NDbSAQA?oc=5"/>
-        <updated>2021-08-16T12:26:08.000Z</updated>
-        <summary type="html"><![CDATA[২৪ ঘণ্টায় মৃত্যু ১৭৪, শনাক্ত ২১.০৮ শতাংশ  The Daily Star Bangla
-দেশে করোনা শনাক্তের চেয়ে বাড়ছে সুস্থতার হার গত ২৪ ঘণ্টায় দেশে...  দৈনিক ইত্তেফাক
-কোভিড: আরও ১৭৪ মৃত্যু, ৬৯৫৯ জন শনাক্ত  bdnews24.com
-টানা ৪ দিন করোনায় মৃত্যু দুই শর নিচে, শনাক্ত প্রায় ৭ হাজার  কালের কন্ঠ
-করোনায় এক দিনে ১৭৪ জনের মৃত্যু  দৈনিক আমাদেরসময়
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[সন্তান নিখোঁজ থাকলে জানান : আফগানিস্তান ইস্যুতে ডিএমপি কমিশনার - জাগো নিউজ]]></title>
-        <id>52781624617851</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL25hdGlvbmFsL25ld3MvNjkyMDgy0gElaHR0cHM6Ly93d3cuamFnb25ld3MyNC5jb20vYW1wLzY5MjA4Mg?oc=5"/>
-        <updated>2021-08-16T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[সন্তান নিখোঁজ থাকলে জানান : আফগানিস্তান ইস্যুতে ডিএমপি কমিশনার  জাগো নিউজ
-আফগানিস্তানফেরতরা দেশে ঢুকলেই গ্রেপ্তার: ডিএমপি কমিশনার  mzamin.com
-আফগানিস্তানফেরতরা দেশে ঢুকলেই গ্রেফতার  জাগো নিউজ
-আফগানিস্তানফেরতরা বাংলাদেশে ঢুকলেই গ্রেফতার  Jugantor
-আফগানফেরতরা বাংলাদেশে প্রবেশ করলে গ্রেপ্তার : ডিএমপি কমিশনার  এনটিভি
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[করোনা প্রাণ নিল আরও ১৭৪ জনের - জাগো নিউজ]]></title>
-        <id>52781623500737</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL25hdGlvbmFsL25ld3MvNjkyMDgw0gElaHR0cHM6Ly93d3cuamFnb25ld3MyNC5jb20vYW1wLzY5MjA4MA?oc=5"/>
-        <updated>2021-08-16T12:20:00.000Z</updated>
-        <summary type="html"><![CDATA[করোনা প্রাণ নিল আরও ১৭৪ জনের  জাগো নিউজ
-করোনায় একদিনে আরও ১৭৪ মৃত্যু, শনাক্ত ৬৯৫৯  Bangla Tribune
-২৪ ঘণ্টায় মৃত্যু ১৮৭, শনাক্ত ২০.২৫ শতাংশ  The Daily Star Bangla
-আগে বিশ্ববিদ্যালয় খুলতে পারে, মাধ্যমিক ধাপে ধাপে  প্রথম আলো
-তিন জেলায় আরও ৪২ জনের মৃত্যু  mzamin.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[দেশে করোনার টিকা উৎপাদনে চীনের সঙ্গে চুক্তি - এনটিভি]]></title>
-        <id>52781620894393</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi-wJodHRwczovL3d3dy5udHZiZC5jb20vYmFuZ2xhZGVzaC8lRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUIwJUUwJUE3JThCJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU5RiVFMCVBNiVCRiVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlODklRTAlQTclOEUlRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JTlBJUUwJUE3JTgwJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiU5OSVFMCVBNyU4RCVFMCVBNiU5NyVFMCVBNyU4Ny0lRTAlQTYlOUElRTAlQTclODElRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkYtOTQ2NjIx0gH_Amh0dHBzOi8vd3d3Lm50dmJkLmNvbS9iYW5nbGFkZXNoLyVFMCVBNiVBNiVFMCVBNyU4NyVFMCVBNiVCNiVFMCVBNyU4Ny0lRTAlQTYlOTUlRTAlQTYlQjAlRTAlQTclOEIlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE2JUJFLSVFMCVBNiU4OSVFMCVBNyU4RSVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiVBNiVFMCVBNiVBOCVFMCVBNyU4Ny0lRTAlQTYlOUElRTAlQTclODAlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE2JTk5JUUwJUE3JThEJUUwJUE2JTk3JUUwJUE3JTg3LSVFMCVBNiU5QSVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRi05NDY2MjE_YW1w?oc=5"/>
-        <updated>2021-08-16T12:18:14.000Z</updated>
-        <summary type="html"><![CDATA[দেশে করোনার টিকা উৎপাদনে চীনের সঙ্গে চুক্তি  এনটিভি
-'তিন মাস পর দেশেই প্রতিমাসে ৪ কোটি টিকা উৎপাদন হবে'  দৈনিক ইত্তেফাক
-সিনোফার্মের টিকা দেশে প্রস্তুত করতে ত্রিপক্ষীয় চুক্তি  bdnews24.com
-দেশেই উৎপাদন হবে চীনের টিকা, চুক্তি স্বাক্ষর  Jugantor
-দেশেই তৈরি হবে চীনের টিকা, চুক্তি সই  দৈনিক ইত্তেফাক
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malaika Arora: পুরনো সম্পর্কে ফিরলেন? অর্জুনকে ছেড়ে ফের আরবাজের সঙ্গে লাঞ্চ ডেটে মালাইকা! - News18 Bangla]]></title>
-        <id>52781623182427</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiowFodHRwczovL2JlbmdhbGkubmV3czE4LmNvbS9uZXdzL2VudGVydGFpbm1lbnQvYm9sbHl3b29kLW1hbGFpa2EtYXJvcmEtcmV1bml0ZXMtd2l0aC1leC1odXNiYW5kLWFyYmFhei1raGFuLWZvci1hLWx1bmNoLXdpdGgtc29uLWFyaGFhbi1raGFuLXNlZS1waWNzLXNyLTY0MzI0Mi5odG1s0gGnAWh0dHBzOi8vYmVuZ2FsaS5uZXdzMTguY29tL2FtcC9uZXdzL2VudGVydGFpbm1lbnQvYm9sbHl3b29kLW1hbGFpa2EtYXJvcmEtcmV1bml0ZXMtd2l0aC1leC1odXNiYW5kLWFyYmFhei1raGFuLWZvci1hLWx1bmNoLXdpdGgtc29uLWFyaGFhbi1raGFuLXNlZS1waWNzLXNyLTY0MzI0Mi5odG1s?oc=5"/>
-        <updated>2021-08-16T12:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Malaika Arora: পুরনো সম্পর্কে ফিরলেন? অর্জুনকে ছেড়ে ফের আরবাজের সঙ্গে লাঞ্চ ডেটে মালাইকা!  News18 Bangla
-বিচ্ছেদের পরেও বন্ধুত্ব, একসঙ্গে মধ্যাহ্নভোজ সারলেন আরবাজ এবং মালাইকা  দৈনিক ইত্তেফাক
-বিচ্ছেদের ৪ বছর পরও আরবাজের সঙ্গে মালাইকার 'সুসম্পর্ক'  বাংলানিউজটোয়েন্টিফোর.কম
-Arbaaz-Malaika: বিচ্ছেদের পরেও বন্ধুত্ব, একসঙ্গে মধ্যাহ্নভোজ সারলেন আরবাজ এবং মালাইকা  Anandabazar Patrika
-প্রাক্তন স্বামীর সঙ্গে মধ্যাহ্নভোজে মালাইকা  risingbd.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বাংলাদেশে ছেলেদের প্রিমিয়ার লিগ ফুটবলে প্রথম নারী রেফারির অভিষেক - কালের কন্ঠ]]></title>
-        <id>52781624679994</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xNi8xMDY0MDA50gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvc3BvcnQvMjAyMS8wOC8xNi8xMDY0MDA5?oc=5"/>
-        <updated>2021-08-16T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[বাংলাদেশে ছেলেদের প্রিমিয়ার লিগ ফুটবলে প্রথম নারী রেফারির অভিষেক  কালের কন্ঠ
-বাংলাদেশ প্রিমিয়ার লিগে প্রথম নারী রেফারি  bdnews24.com
-প্রিমিয়ার লিগে প্রথম নারী রেফারি সালমা মনি  জাগো নিউজ
-প্রথম নারী রেফারি হিসেবে ইতিহাস গড়লেন সালমা  Jugantor
-সালমার হাত ধরে বাংলাদেশ ফুটবলে ইতিহাস  SOMOY NEWS
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আফগানিস্তান ফেরতরা দেশে ঢুকলেই গ্রেপ্তার: ডিএমপি কমিশনার - mzamin.com]]></title>
-        <id>52781624617851</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vbXphbWluLmNvbS9hcnRpY2xlLnBocD9temFtaW49Mjg4NTQz0gEA?oc=5"/>
-        <updated>2021-08-16T11:35:14.000Z</updated>
-        <summary type="html"><![CDATA[আফগানিস্তান ফেরতরা দেশে ঢুকলেই গ্রেপ্তার: ডিএমপি কমিশনার  mzamin.com
-আফগানিস্তানফেরতরা বাংলাদেশে ঢুকলেই গ্রেফতার  Jugantor
-আফগানফেরতরা দেশে ঢুকলেই গ্রেপ্তার: ডিএমপি কমিশনার  bdnews24.com
-'আফগানিস্তান ফেরত বাংলাদেশিরা দেশে ঢুকলেই গ্রেফতার'  দৈনিক ইত্তেফাক
-সন্তান নিখোঁজ থাকলে জানান : আফগানিস্তান ইস্যুতে ডিএমপি কমিশনার  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[সিনোফার্মের ভ্যাকসিন দেশে উৎপাদন করবে ইনসেপ্টা, চুক্তি সাক্ষর - Channel i]]></title>
-        <id>52781620894393</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi6AFodHRwczovL3d3dy5jaGFubmVsaW9ubGluZS5jb20vJUUwJUE2JTg3JUUwJUE2JUE4JUUwJUE2JUI4JUUwJUE3JTg3JUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJFLSVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4QiVFMCVBNiVBQiVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQUQlRTAlQTclOEQlRTAlQTYlQUYv0gHsAWh0dHBzOi8vd3d3LmNoYW5uZWxpb25saW5lLmNvbS9hbXAvJUUwJUE2JTg3JUUwJUE2JUE4JUUwJUE2JUI4JUUwJUE3JTg3JUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJFLSVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVBOCVFMCVBNyU4QiVFMCVBNiVBQiVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQUQlRTAlQTclOEQlRTAlQTYlQUYv?oc=5"/>
-        <updated>2021-08-16T11:34:38.000Z</updated>
-        <summary type="html"><![CDATA[সিনোফার্মের ভ্যাকসিন দেশে উৎপাদন করবে ইনসেপ্টা, চুক্তি সাক্ষর  Channel i
-দেশেই তৈরি হবে চীনের টিকা, চুক্তি সই  দৈনিক ইত্তেফাক
-সিনোফার্মের টিকা দেশে প্রস্তুত করতে ত্রিপক্ষীয় চুক্তি  bdnews24.com
-দেশে আর ভ্যাকসিন ঘাটতি থাকবে না: স্বাস্থ্যমন্ত্রী ১৬ আগস্ট, ২০২১  Jugantor
-'তিন মাস পর দেশেই প্রতিমাসে ৪ কোটি টিকা উৎপাদন হবে'  দৈনিক ইত্তেফাক
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[তালেবানের বিজয়কে যেভাবে দেখছেন ইমরান খান ১৬ আগস্ট, ২০২১ - Jugantor]]></title>
-        <id>52781624570003</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi7gJodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTQ1NDYvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiU5QyVFMCVBNyU5RiVFMCVBNiU5NSVFMCVBNyU4Ny0lRTAlQTYlQUYlRTAlQTclODclRTAlQTYlQUQlRTAlQTYlQkUlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JTk2JUUwJUE2JTlCJUUwJUE3JTg3JUUwJUE2JUE4LSVFMCVBNiU4NyVFMCVBNiVBRSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlOTYlRTAlQTYlQkUlRTAlQTYlQTjSAQA?oc=5"/>
-        <updated>2021-08-16T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[তালেবানের বিজয়কে যেভাবে দেখছেন ইমরান খান ১৬ আগস্ট, ২০২১  Jugantor
-আফগানরা দাসত্বের শৃঙ্খল ভেঙেছে : ইমরান খান  কালের কন্ঠ
-দাসত্বের শেকল ভেঙেছে আফগানরা: ইমরান খান  জাগো নিউজ
-আফগানরা দাসত্বের শৃঙ্খল ভেঙেছে: ইমরান খান  bdnews24.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বিমানে উঠতে আফগানদের হুড়োহুড়ি, নিহত ৫ (ভিডিও) - দৈনিক আমাদেরসময়]]></title>
-        <id>CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzA5NDPSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMwOTQz</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzA5NDPSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMwOTQz?oc=5"/>
-        <updated>2021-08-16T11:23:13.000Z</updated>
-        <summary type="html"><![CDATA[বিমানে উঠতে আফগানদের হুড়োহুড়ি, নিহত ৫ (ভিডিও)  দৈনিক আমাদেরসময়]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[দেশেই তৈরি হবে চীনের টিকা, চুক্তি সই - দৈনিক ইত্তেফাক]]></title>
-        <id>52781620894393</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiuwJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9jb3JvbmEtdXBkYXRlLzI2NzkzNC8lRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTclODclRTAlQTYlODctJUUwJUE2JUE0JUUwJUE3JTg4JUUwJUE2JUIwJUUwJUE2JUJGLSVFMCVBNiVCOSVFMCVBNiVBQyVFMCVBNyU4Ny0lRTAlQTYlOUElRTAlQTclODAlRTAlQTYlQTglRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE2JUJFLSVFMCVBNiU5QSVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRi0lRTAlQTYlQjglRTAlQTYlODfSAQA?oc=5"/>
-        <updated>2021-08-16T11:16:00.000Z</updated>
-        <summary type="html"><![CDATA[দেশেই তৈরি হবে চীনের টিকা, চুক্তি সই  দৈনিক ইত্তেফাক
-দেশেই উৎপাদন হবে চীনের টিকা, চুক্তি স্বাক্ষর  Jugantor
-দেশেই করোনার টিকা উৎপাদনের দুয়ার খুলছে  কালের কন্ঠ
-সিনোফার্মের সঙ্গে যৌথ উৎপাদন চুক্তি আজ  দৈনিক ইত্তেফাক
-দেশে সিনোফার্মের টিকা উৎপাদনে চুক্তি সই  mzamin.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে প্রস্তুত চীন, রাশিয়ার সিদ্ধান্ত কাল - Jugantor]]></title>
-        <id>52781624558806</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMirQVodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTQ1NDQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiU5OSVFMCVBNyU4RCVFMCVBNiU5NyVFMCVBNyU4Ny0lRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTclRTAlQTclODElRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQUMlRTAlQTYlQUElRTAlQTclODIlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTMtJUUwJUE2JUI4JUUwJUE2JUFFJUUwJUE3JThEJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JTk1LSVFMCVBNiU5NyVFMCVBNiVBMSVFMCVBNiVCQyVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtJUUwJUE2JTlBJUUwJUE3JTgwJUUwJUE2JUE4LSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNiVBRiVFMCVBNiVCQyVFMCVBNiVCRSVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlQkYlRTAlQTYlQTYlRTAlQTclOEQlRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTQtJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUIy0gEA?oc=5"/>
-        <updated>2021-08-16T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে প্রস্তুত চীন, রাশিয়ার সিদ্ধান্ত কাল  Jugantor
-তালেবানের সঙ্গে বন্ধুত্বপূর্ণ সম্পর্ক গড়তে চায় চীন  দৈনিক ইত্তেফাক
-তালেবানের সঙ্গে ‘বন্ধুত্বপূর্ণ সম্পর্ক’ গড়তে প্রস্তুত চীন  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
