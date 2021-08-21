@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-21T17:16:46.663Z</updated>
+    <updated>2021-08-21T18:15:12.302Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
@@ -99,6 +99,20 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['প্রত্যেকেই উচ্চবিত্ত শ্রেণির সন্তান, বিক্রি করেন আইস-ইয়াবা' - দৈনিক ইত্তেফাক]]></title>
+        <id>52781632806897</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi8wNodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9jYXBpdGFsLzI2OTEzOC8lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQTQlRTAlQTclOEQlRTAlQTYlQUYlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODclRTAlQTYlODctJUUwJUE2JTg5JUUwJUE2JTlBJUUwJUE3JThEJUUwJUE2JTlBJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUE0LSVFMCVBNiVCNiVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVBMyVFMCVBNiVCRiVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUJGLSVFMCVBNiU5NSVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTYlODYlRTAlQTYlODclRTAlQTYlQjgtJUUwJUE2JTg3JUUwJUE3JTlGJUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE2JUJF0gEA?oc=5"/>
+        <updated>2021-08-21T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA['প্রত্যেকেই উচ্চবিত্ত শ্রেণির সন্তান, বিক্রি করেন আইস-ইয়াবা'  দৈনিক ইত্তেফাক
+উচ্চবিত্ত পরিবারের ১০ তরুণ-তরুণী গ্রেফতার, জানা গেল চাঞ্চল্যকর তথ্য  Jugantor
+রাজধানীতে ‘আইস’ ও ইয়াবাসহ ১০ জন গ্রেপ্তার  bdnews24.com
+উচ্চবিত্ত পরিবারের ১০ তরুণী-তরুণী গ্রেফতার, জানা গেল চাঞ্চল্যকর তথ্য  Jugantor
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[বার্সেলোনায় ফিরলেন মেসি নেইমার - সমকাল]]></title>
         <id>52781633381051</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi8AFodHRwczovL3d3dy5zYW1ha2FsLmNvbS9zcG9ydHMvYXJ0aWNsZS8yMTA4NzQxNzIvJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUI4JUUwJUE3JTg3JUUwJUE2JUIyJUUwJUE3JThCJUUwJUE2JUE4JUUwJUE2JUJFJUUwJUE3JTlGLSVFMCVBNiVBQiVFMCVBNiVCRiVFMCVBNiVCMCVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTYlQUUlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQkbSAQA?oc=5"/>
@@ -106,6 +120,46 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <summary type="html"><![CDATA[বার্সেলোনায় ফিরলেন মেসি নেইমার  সমকাল
 সুয়ারেসের ডাকে বার্সেলোনায় মেসি-নেইমার!  বাংলানিউজটোয়েন্টিফোর.কম
 সুয়ারেসের নিমন্ত্রণ রক্ষায় বার্সেলোনায় গেলেন মেসি-নেইমার  কালের কন্ঠ
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[মার্কিন নাগরিকদের কাবুল বিমানবন্দরে না যেতে সতর্কবার্তা - mzamin.com]]></title>
+        <id>52781633393345</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vd3d3Lm16YW1pbi5jb20vYXJ0aWNsZS5waHA_bXphbWluPTI4OTIzNdIBAA?oc=5"/>
+        <updated>2021-08-21T14:15:25.000Z</updated>
+        <summary type="html"><![CDATA[মার্কিন নাগরিকদের কাবুল বিমানবন্দরে না যেতে সতর্কবার্তা  mzamin.com
+মার্কিন নাগরিকদের কাবুল বিমানবন্দরে না যাওয়ার পরামর্শ  দৈনিক ইত্তেফাক
+নাগরিকদের কাবুল বিমানবন্দরে যেতে নিষেধ করল যুক্তরাষ্ট্র ২১ আগস্ট, ২০২১  Jugantor
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ইনস্টাগ্রামে জোলি, শুরুতেই আফগান কিশোরীর চিঠি - Bangla Tribune]]></title>
+        <id>52781633424776</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiiQNodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTcxODcvJUUwJUE2JTg3JUUwJUE2JUE4JUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJFJUUwJUE2JTk3JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE3JTg3LSVFMCVBNiU5QyVFMCVBNyU4QiVFMCVBNiVCMiVFMCVBNiVCRi0lRTAlQTYlQjYlRTAlQTclODElRTAlQTYlQjAlRTAlQTclODElRTAlQTYlQTQlRTAlQTclODclRTAlQTYlODctJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4LSVFMCVBNiU5NSVFMCVBNiVCRiVFMCVBNiVCNiVFMCVBNyU4QiVFMCVBNiVCMCVFMCVBNyU4MCVFMCVBNiVCMC0lRTAlQTYlOUElRTAlQTYlQkYlRTAlQTYlQTAlRTAlQTYlQkbSAY0DaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5NzE4Ny8lRTAlQTYlODclRTAlQTYlQTglRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlOUYlRTAlQTYlQkUlRTAlQTYlOTclRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQUUlRTAlQTclODctJUUwJUE2JTlDJUUwJUE3JThCJUUwJUE2JUIyJUUwJUE2JUJGLSVFMCVBNiVCNiVFMCVBNyU4MSVFMCVBNiVCMCVFMCVBNyU4MSVFMCVBNiVBNCVFMCVBNyU4NyVFMCVBNiU4Ny0lRTAlQTYlODYlRTAlQTYlQUIlRTAlQTYlOTclRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JTk1JUUwJUE2JUJGJUUwJUE2JUI2JUUwJUE3JThCJUUwJUE2JUIwJUUwJUE3JTgwJUUwJUE2JUIwLSVFMCVBNiU5QSVFMCVBNiVCRiVFMCVBNiVBMCVFMCVBNiVCRg?oc=5"/>
+        <updated>2021-08-21T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[ইনস্টাগ্রামে জোলি, শুরুতেই আফগান কিশোরীর চিঠি  Bangla Tribune
+উনার সঙ্গে শুটিং মুহূর্তটিই জীবনের সেরা সময়: বাপ্পি  Bangla Tribune
+নচিকেতার নামে প্রেক্ষাগৃহ  Bangla Tribune
+তিনি ছিলেন মাথার ওপরে সুবিশাল এক আকাশ: শাকিব  Bangla Tribune
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ছাত্রলীগকর্মীর ফান পোস্টে সাইবার বুলিংয়ের শিকার ৭৩ ছাত্রী - কালের কন্ঠ]]></title>
+        <id>52781632988902</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvY291bnRyeS1uZXdzLzIwMjEvMDgvMjEvMTA2NTUxMNIBRmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9hbXAvb25saW5lL2NvdW50cnktbmV3cy8yMDIxLzA4LzIxLzEwNjU1MTA?oc=5"/>
+        <updated>2021-08-21T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[ছাত্রলীগকর্মীর ফান পোস্টে সাইবার বুলিংয়ের শিকার ৭৩ ছাত্রী  কালের কন্ঠ
+ছাত্রলীগ কর্মীর সাইবার বুলিংয়ের শিকার ইবির ৭৩ ছাত্রী! ২১ আগস্ট, ২০২১  Jugantor
+ছাত্রলীগ নেতার সাইবার বুলিংয়ের শিকার ইবির ৭৩ ছাত্রী  নয়া দিগন্ত
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -182,6 +236,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <summary type="html"><![CDATA[ছাত্রলীগ কর্মীর সাইবার বুলিংয়ের শিকার ইবির ৭৩ ছাত্রী!  Jugantor
 ছাত্রলীগকর্মীর ফান পোস্টে সাইবার বুলিংয়ের শিকার ৭৩ ছাত্রী  কালের কন্ঠ
 ছাত্রলীগ নেতার সাইবার বুলিংয়ের শিকার ইবির ৭৩ ছাত্রী  নয়া দিগন্ত
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[করোনায় প্রাণ গেল আরও ১২০ জনের - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
+        <id>52781629913098</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vYmFuZ2xhbmV3czI0LmNvbS9oZWFsdGgvbmV3cy9iZC84NzUzMDkuZGV0YWlsc9IBAA?oc=5"/>
+        <updated>2021-08-21T12:56:15.000Z</updated>
+        <summary type="html"><![CDATA[করোনায় প্রাণ গেল আরও ১২০ জনের  বাংলানিউজটোয়েন্টিফোর.কম
+দেশে করোনায় মৃত্যু ও শনাক্তের হার নিম্নমুখী  দৈনিক আমাদেরসময়
+করোনায় মৃত্যু আরো কমল, শনাক্ত নামল ৪ হাজারের নিচে  কালের কন্ঠ
+করোনায় মৃত্যু ও শনাক্ত কমেছে  নয়া দিগন্ত
+আজ মৃত্যু ১২০, শনাক্ত ১৬.৭১ শতাংশ  The Daily Star Bangla
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -735,6 +804,18 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 ডি মারিয়া-এমবাপ্পের নৈপুণ্যে 'এক হালি' দিয়ে শীর্ষে পিএসজি (ভিডিও)  Jugantor
 হালিতে ফের পিএসজির হ্যাটট্রিক জয়  sharenews24.com
 মেসি-নেইমারকে ছাড়াই জিতে চলেছে পিএসজি  The Daily Star Bangla
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ষড়যন্ত্র, ষড়যন্ত্র, - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
+        <id>52781632791814</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vbmF0aW9uYWwvbmV3cy9iZC84NzUyNTkuZGV0YWlsc9IBAA?oc=5"/>
+        <updated>2021-08-21T07:33:35.000Z</updated>
+        <summary type="html"><![CDATA[ষড়যন্ত্র, ষড়যন্ত্র,  বাংলানিউজটোয়েন্টিফোর.কম
+কাউকে আ'লীগ করতে না দেয়ার ব্যবস্থা করছে প্রশাসন : বরিশাল মেয়র বরিশাল সিটি করপোরেশনের  নয়া দিগন্ত
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -10899,254 +10980,6 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ  বাংলানিউজটোয়েন্টিফোর.কম
 চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ, গুলি (ভিডিও) ১৭ আগস্ট, ২০২১  Jugantor
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[নিজ নাগরিকদের ফেরাতে আফগানিস্তানে আরও সেনা পাঠাচ্ছে যুক্তরাজ্য - প্রথম আলো]]></title>
-        <id>52781622672764</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMinARodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS93b3JsZC9hc2lhLyVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiU5Qy0lRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlOTclRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFCJUUwJUE3JTg3JUUwJUE2JUIwJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE3JTg3LSVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4Ny0lRTAlQTYlODYlRTAlQTYlQjAlRTAlQTYlOTMtJUUwJUE2JUI4JUUwJUE3JTg3JUUwJUE2JUE4JUUwJUE2JUJFLSVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiVBMCVFMCVBNiVCRSVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQUYlRTAlQTclODElRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTclOEQlRTAlQTYlQUbSAaYEaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20vYW1wL3N0b3J5L3dvcmxkL2FzaWEvJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JTlDLSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNiU5NyVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNiU5NSVFMCVBNiVBNiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQTQlRTAlQTclODctJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3LSVFMCVBNiU4NiVFMCVBNiVCMCVFMCVBNiU5My0lRTAlQTYlQjglRTAlQTclODclRTAlQTYlQTglRTAlQTYlQkUtJUUwJUE2JUFBJUUwJUE2JUJFJUUwJUE2JUEwJUUwJUE2JUJFJUUwJUE2JTlBJUUwJUE3JThEJUUwJUE2JTlCJUUwJUE3JTg3LSVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNyU4RCVFMCVBNiVBRg?oc=5"/>
-        <updated>2021-08-17T06:15:05.000Z</updated>
-        <summary type="html"><![CDATA[নিজ নাগরিকদের ফেরাতে আফগানিস্তানে আরও সেনা পাঠাচ্ছে যুক্তরাজ্য  প্রথম আলো
-আফগানরাই লড়েনি, মার্কিন সেনারা কেন জীবন দেবে: বাইডেন  বাংলানিউজটোয়েন্টিফোর.কম
-দেশ ছাড়তে বেপরোয়া আফগানদের মরিয়া চেষ্টা  Bangla Tribune
-হামিদ কারজাই ও আবদুল্লাহর সঙ্গে আলোচনায় তালেবান নেতা  প্রথম আলো
-বাইডেন প্রশাসনের 'সমালোচনায় মুখর' মার্কিন সেনারা ১৭ আগস্ট, ২০২১  Jugantor
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
-        <id>CBMi1QNodHRwczovL3d3dy5wcml5by5jb20vZS8zNDQ2MzMxLSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNiU5RiVFMCVBNiVCMiVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBMSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUElRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQjclRTAlQTclODctJUUwJUE2JUIyJUUwJUE3JTlDJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE3JTlGJUUwJUE3JTg3LSVFMCVBNiVCNiVFMCVBNyU4MSVFMCVBNiVCMCVFMCVBNyU4MS0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUI2JUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUFB0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi1QNodHRwczovL3d3dy5wcml5by5jb20vZS8zNDQ2MzMxLSVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiU5NSVFMCVBNiU5RiVFMCVBNiVCMiVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBMSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUElRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQjclRTAlQTclODctJUUwJUE2JUIyJUUwJUE3JTlDJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE3JTlGJUUwJUE3JTg3LSVFMCVBNiVCNiVFMCVBNyU4MSVFMCVBNiVCMCVFMCVBNyU4MS0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUI2JUUwJUE3JThEJUUwJUE2JUFDJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUFB0gEA?oc=5"/>
-        <updated>2021-08-17T06:13:00.000Z</updated>
-        <summary type="html"><![CDATA[ইন্টারনেট লাইফ  প্রিয়.কম]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[জাতিসংঘে আফগানিস্তান নিয়ে কথা বলতে দেয়নি ভারত: পাকিস্তান ১৭ আগস্ট, ২০২১ - Jugantor]]></title>
-        <id>52781625978542</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi5QNodHRwczovL3d3dy5qdWdhbnRvci5jb20vaW50ZXJuYXRpb25hbC80NTQ4NTgvJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE2JTgyJUUwJUE2JTk4JUUwJUE3JTg3LSVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTglRTAlQTYlQkYlRTAlQTclOUYlRTAlQTclODctJUUwJUE2JTk1JUUwJUE2JUE1JUUwJUE2JUJFLSVFMCVBNiVBQyVFMCVBNiVCMiVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQTYlRTAlQTclODclRTAlQTclOUYlRTAlQTYlQTglRTAlQTYlQkYtJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE2JUE0LSVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiU5NSVFMCVBNiVCRiVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVBONIBAA?oc=5"/>
-        <updated>2021-08-17T06:11:00.000Z</updated>
-        <summary type="html"><![CDATA[জাতিসংঘে আফগানিস্তান নিয়ে কথা বলতে দেয়নি ভারত: পাকিস্তান ১৭ আগস্ট, ২০২১  Jugantor
-স্বামীর নামে মন্দির স্থাপন  Bangla Tribune
-তালেবান চাইলে সহায়তা দেবে তুরস্ক  Bangla Tribune
-ফের চালু হলো কাবুল বিমানবন্দর  Bangla Tribune
-তালেবানদের আফগান রিজার্ভ দেবে না যুক্তরাষ্ট্র  Bangla Tribune
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ফেসবুক লাইভে এসে জাদুশিল্পীর আত্মহত্যা - Jugantor]]></title>
-        <id>CBMi4wJodHRwczovL3d3dy5qdWdhbnRvci5jb20vY291bnRyeS1uZXdzLzQ1NDg1NS8lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOTUtJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFEJUUwJUE3JTg3LSVFMCVBNiU4RiVFMCVBNiVCOCVFMCVBNyU4Ny0lRTAlQTYlOUMlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODElRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTYlQjIlRTAlQTclOEQlRTAlQTYlQUElRTAlQTclODAlRTAlQTYlQjAtJUUwJUE2JTg2JUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFFJUUwJUE2JUI5JUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE2JUJF0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi4wJodHRwczovL3d3dy5qdWdhbnRvci5jb20vY291bnRyeS1uZXdzLzQ1NDg1NS8lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjglRTAlQTYlQUMlRTAlQTclODElRTAlQTYlOTUtJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFEJUUwJUE3JTg3LSVFMCVBNiU4RiVFMCVBNiVCOCVFMCVBNyU4Ny0lRTAlQTYlOUMlRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTclODElRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTYlQjIlRTAlQTclOEQlRTAlQTYlQUElRTAlQTclODAlRTAlQTYlQjAtJUUwJUE2JTg2JUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFFJUUwJUE2JUI5JUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE2JUJF0gEA?oc=5"/>
-        <updated>2021-08-17T06:08:00.000Z</updated>
-        <summary type="html"><![CDATA[ফেসবুক লাইভে এসে জাদুশিল্পীর আত্মহত্যা  Jugantor]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
-        <id>52781625888429</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LmJhbmdsYW5ld3MyNC5jb20vcG9saXRpY3MvbmV3cy9iZC84NzQ1NjEuZGV0YWlsc9IBAA?oc=5"/>
-        <updated>2021-08-17T06:02:57.000Z</updated>
-        <summary type="html"><![CDATA[চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ  বাংলানিউজটোয়েন্টিফোর.কম
-চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষে আহত অর্ধশতাধিক  bdnews24.com
-গাড়ি ভাঙচুর, অল্পের জন্য প্রাণে রক্ষা পেলেন সচিব  বাংলানিউজটোয়েন্টিফোর.কম
-চন্দ্রিমা উদ্যানে বিএনপি-পুলিশ সংঘর্ষ, গুলি (ভিডিও)  Jugantor
-চন্দ্রিমা উদ্যানে পুলিশ-বিএনপি সংঘর্ষ, আমিনুল গুলিবিদ্ধ  mzamin.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afghanistan: আফগান পরিচালক Sahraa Karimi-র সমর্থনে বলিউড থেকে টলিউড - MSN]]></title>
-        <id>52781624200148</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi2QJodHRwczovL3d3dy5tc24uY29tL2JuLWluL2VudGVydGFpbm1lbnQvdG9sbHl3b29kL2FmZ2hhbmlzdGFuLSVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5Ny0lRTAlQTYlQTgtJUUwJUE2JUFBJUUwJUE2JUIwLSVFMCVBNiU5QS0lRTAlQTYlQjIlRTAlQTYlOTUtc2FocmFhLWthcmltaS0lRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE2JUFFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUE1JUUwJUE2JUE4LSVFMCVBNiVBQyVFMCVBNiVCMi0lRTAlQTYlODklRTAlQTYlQTEtJUUwJUE2JUE1LSVFMCVBNiU5NS0lRTAlQTYlOUYlRTAlQTYlQjItJUUwJUE2JTg5JUUwJUE2JUExL2FyLUFBTnBkdGY_bGk9QkIxMzgzcmfSAQA?oc=5"/>
-        <updated>2021-08-17T06:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Afghanistan: আফগান পরিচালক Sahraa Karimi-র সমর্থনে বলিউড থেকে টলিউড  MSN
-Afghan director Sahraa Karimi: 'পোশাকের জন্য মেয়েদের খুন করা হচ্ছে'! আফগান পরিচালকের আশঙ্কা, 'পরবর্তী টার্গ...  News18 বাংলা
-‘Kabul’কে বাঁচান’, মহিলা পরিচালকের কাতর আরজি ফেসবুকে শেয়ার করলেন Sreelekha-Anik  Sangbad Pratidin
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ওমানেই বিশ্বকাপ শুরু বাংলাদেশের - Bangla Tribune]]></title>
-        <id>52781626007045</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMipAJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTYzNzIvJUUwJUE2JTkzJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVCNiVFMCVBNyU4RCVFMCVBNiVBQyVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVBQS0lRTAlQTYlQjYlRTAlQTclODElRTAlQTYlQjAlRTAlQTclODEtJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JTgyJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUIw0gGoAmh0dHBzOi8vd3d3LmJhbmdsYXRyaWJ1bmUuY29tL2FtcC82OTYzNzIvJUUwJUE2JTkzJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JTg3LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVCNiVFMCVBNyU4RCVFMCVBNiVBQyVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVBQS0lRTAlQTYlQjYlRTAlQTclODElRTAlQTYlQjAlRTAlQTclODEtJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JTgyJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUI2JUUwJUE3JTg3JUUwJUE2JUIw?oc=5"/>
-        <updated>2021-08-17T05:54:56.000Z</updated>
-        <summary type="html"><![CDATA[ওমানেই বিশ্বকাপ শুরু বাংলাদেশের  Bangla Tribune
-স্কটল্যান্ডের বিপক্ষে লড়াইয়ে শুরু বাংলাদেশের বিশ্বকাপ  bdnews24.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বাবা-মেয়ে থেকে তারা স্বামী-স্ত্রী - Dhakatimes24]]></title>
-        <id>52781624571155</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMisAJodHRwczovL3d3dy5kaGFrYXRpbWVzMjQuY29tLzIwMjEvMDgvMTcvMjI2MzI3LyVFMCVBNiVBQyVFMCVBNiVCRSVFMCVBNiVBQyVFMCVBNiVCRS0lRTAlQTYlQUUlRTAlQTclODclRTAlQTclOUYlRTAlQTclODctJUUwJUE2JUE1JUUwJUE3JTg3JUUwJUE2JTk1JUUwJUE3JTg3LSVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNiVCRS0lRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQUUlRTAlQTclODAtJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE3JThEJUUwJUE2JUIwJUUwJUE3JTgw0gEA?oc=5"/>
-        <updated>2021-08-17T05:41:00.000Z</updated>
-        <summary type="html"><![CDATA[বাবা-মেয়ে থেকে তারা স্বামী-স্ত্রী  Dhakatimes24
-মেয়ে থেকে সোজা বউ; সম্রাটের স্ত্রী হয়ে ‘সামনে বাবা দাঁড়িয়ে’ মনে হচ্ছিল ঋত্বিকার!  HT Bangla
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ফের চালু হলো কাবুল বিমানবন্দর - Bangla Tribune]]></title>
-        <id>52781625911044</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiigJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTYzNjgvJUUwJUE2JUFCJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5QSVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNyU4MS0lRTAlQTYlQjklRTAlQTYlQjIlRTAlQTclOEItJUUwJUE2JTk1JUUwJUE2JUJFJUUwJUE2JUFDJUUwJUE3JTgxJUUwJUE2JUIyLSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNiVBQyVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBNiVFMCVBNiVCMNIBjgJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS9hbXAvNjk2MzY4LyVFMCVBNiVBQiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOUElRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTclODEtJUUwJUE2JUI5JUUwJUE2JUIyJUUwJUE3JThCLSVFMCVBNiU5NSVFMCVBNiVCRSVFMCVBNiVBQyVFMCVBNyU4MSVFMCVBNiVCMi0lRTAlQTYlQUMlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQUMlRTAlQTYlQTglRTAlQTclOEQlRTAlQTYlQTYlRTAlQTYlQjA?oc=5"/>
-        <updated>2021-08-17T05:39:12.000Z</updated>
-        <summary type="html"><![CDATA[ফের চালু হলো কাবুল বিমানবন্দর  Bangla Tribune
-তালেবানকে ইসলামিক বিধান মানার আহ্বান সৌদি আরবের  Bangla Tribune
-স্বামীর নামে মন্দির স্থাপন  Bangla Tribune
-নিরাপত্তা পরিষদে ভারত কথা বলতে দেয়নি: পাকিস্তান  Bangla Tribune
-তালেবান চাইলে সহায়তা দেবে তুরস্ক  Bangla Tribune
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICC T20 World Cup 2021 Fixture: প্রকাশ হল টি-২০ বিশ্বকাপের সূচি, দেখুন একনজরে - HT Bangla]]></title>
-        <id>52781625906495</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiqQFodHRwczovL2JhbmdsYS5oaW5kdXN0YW50aW1lcy5jb20vc3BvcnRzL2ljYy10MjAtd29ybGQtY3VwLTIwMjEtZml4dHVyZS1mdWxsLWZpeHR1cmUtb2YtaW5kaWEtYmFuZ2xhZGVzaC1hbmQtcGFraXN0YW4tYW5kLXdvcmxkLWN1cC1pbmRpYS12cy1wYWtpc3Rhbi0zMTYyOTE3ODExNzQyMy5odG1s0gEA?oc=5"/>
-        <updated>2021-08-17T05:38:41.000Z</updated>
-        <summary type="html"><![CDATA[ICC T20 World Cup 2021 Fixture: প্রকাশ হল টি-২০ বিশ্বকাপের সূচি, দেখুন একনজরে  HT Bangla
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ, বাংলাদেশের খেলা প্রথম দিনই  জাগো নিউজ
-টি-২০ বিশ্বকাপ সূচি ঘোষণা: উদ্বোধনী দিনে মাঠে নামবে বাংলাদেশ  বাংলানিউজটোয়েন্টিফোর.কম
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ  Jugantor
-সূচি প্রকাশ, টি-২০ বিশ্বকাপের উদ্বোধনী দিনে মাঠে নামবে বাংলাদেশ  নয়া দিগন্ত
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICC T20 World Cup 2021 Fixture: প্রকাশ হল টি-২০ বিশ্বকাপের সূচি, দেখুন একনজরে - Bangla Hindustan Times]]></title>
-        <id>52781625906495</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiqQFodHRwczovL2JhbmdsYS5oaW5kdXN0YW50aW1lcy5jb20vc3BvcnRzL2ljYy10MjAtd29ybGQtY3VwLTIwMjEtZml4dHVyZS1mdWxsLWZpeHR1cmUtb2YtaW5kaWEtYmFuZ2xhZGVzaC1hbmQtcGFraXN0YW4tYW5kLXdvcmxkLWN1cC1pbmRpYS12cy1wYWtpc3Rhbi0zMTYyOTE3ODExNzQyMy5odG1s0gGtAWh0dHBzOi8vYmFuZ2xhLmhpbmR1c3RhbnRpbWVzLmNvbS9zcG9ydHMvaWNjLXQyMC13b3JsZC1jdXAtMjAyMS1maXh0dXJlLWZ1bGwtZml4dHVyZS1vZi1pbmRpYS1iYW5nbGFkZXNoLWFuZC1wYWtpc3Rhbi1hbmQtd29ybGQtY3VwLWluZGlhLXZzLXBha2lzdGFuL2FtcC0zMTYyOTE3ODExNzQyMy5odG1s?oc=5"/>
-        <updated>2021-08-17T05:38:41.000Z</updated>
-        <summary type="html"><![CDATA[ICC T20 World Cup 2021 Fixture: প্রকাশ হল টি-২০ বিশ্বকাপের সূচি, দেখুন একনজরে  Bangla Hindustan Times
-টি-২০ বিশ্বকাপ সূচি ঘোষণা: উদ্বোধনী দিনে মাঠে নামবে বাংলাদেশ  বাংলানিউজটোয়েন্টিফোর.কম
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ  Jugantor
-সূচি প্রকাশ, টি-২০ বিশ্বকাপের উদ্বোধনী দিনে মাঠে নামবে বাংলাদেশ  নয়া দিগন্ত
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ, বাংলাদেশের খেলা প্রথম দিনই  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T20 World Cup 2021 Schedule: টি-টোয়েন্টি বিশ্বকাপে প্রথম ম্যাচেই ভারতের সামনে পাকিস্তান - ABP Ananda]]></title>
-        <id>52781626187987</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vYmVuZ2FsaS5hYnBsaXZlLmNvbS9zcG9ydHMvaWNjLXQyMC13b3JsZC1jdXAtMjAyMS1zY2hlZHVsZS1yZWxlYXNlZC1jaGVjay10MjAtbWVucy13b3JsZC1jdXAtZnVsbC1maXh0dXJlcy04Mjk1NTbSAX1odHRwczovL2JlbmdhbGkuYWJwbGl2ZS5jb20vc3BvcnRzL2ljYy10MjAtd29ybGQtY3VwLTIwMjEtc2NoZWR1bGUtcmVsZWFzZWQtY2hlY2stdDIwLW1lbnMtd29ybGQtY3VwLWZ1bGwtZml4dHVyZXMtODI5NTU2L2FtcA?oc=5"/>
-        <updated>2021-08-17T05:34:53.000Z</updated>
-        <summary type="html"><![CDATA[T20 World Cup 2021 Schedule: টি-টোয়েন্টি বিশ্বকাপে প্রথম ম্যাচেই ভারতের সামনে পাকিস্তান  ABP Ananda
-T20 World Cup: টি২০ বিশ্বকাপে ভারত-পাকিস্তান লড়াই ২৪ অক্টোবর, ঘোষণা আইসিসি-র  Anandabazar Patrika
-T20 World Cup: কুড়ি ওভারের বিশ্বকাপে ভারত-পাক মহারণ ২৪ অক্টোবর  Zee ২৪ ঘণ্টা
-T20 World Cup 2021 Schedule: মঙ্গলবার টি-২০ বিশ্বকাপের সূচি ঘোষণা  ABP Ananda
-Afghanistan খেলবে T20 World Cup! জানিয়ে দিলেন মিডিয়া ম্যানেজার  Zee ২৪ ঘণ্টা
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[সম্প্রসারণের পরিকল্পনা করছে আনোয়ার গ্যালভানাইজিং - risingbd.com]]></title>
-        <id>CBMiLmh0dHBzOi8vd3d3LnJpc2luZ2JkLmNvbS9lY29ub21pY3MvbmV3cy80MjA3OTjSATJodHRwczovL3d3dy5yaXNpbmdiZC5jb20vYW1wL2Vjb25vbWljcy9uZXdzLzQyMDc5OA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LnJpc2luZ2JkLmNvbS9lY29ub21pY3MvbmV3cy80MjA3OTjSATJodHRwczovL3d3dy5yaXNpbmdiZC5jb20vYW1wL2Vjb25vbWljcy9uZXdzLzQyMDc5OA?oc=5"/>
-        <updated>2021-08-17T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[সম্প্রসারণের পরিকল্পনা করছে আনোয়ার গ্যালভানাইজিং  risingbd.com]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আফগান শরণার্থীদের জন্য ৫০ কোটি ডলার মার্কিন সহায়তা - কালের কন্ঠ]]></title>
-        <id>52781625790699</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvd29ybGQvMjAyMS8wOC8xNy8xMDY0MjQy0gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvd29ybGQvMjAyMS8wOC8xNy8xMDY0MjQy?oc=5"/>
-        <updated>2021-08-17T05:29:00.000Z</updated>
-        <summary type="html"><![CDATA[আফগান শরণার্থীদের জন্য ৫০ কোটি ডলার মার্কিন সহায়তা  কালের কন্ঠ
-আফগান শরণার্থীদের সহায়তায় ৫০ কোটি ডলার ঘোষণা যুক্তরাষ্ট্রের  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[পাইরেসির শিকার 'রেহানা মরিয়ম নূর', সাইবার ক্রাইমে অভিযোগ পাইরেসির শিকার হল কান উৎসবে প্রশংসিত - Daily Inqilab]]></title>
-        <id>52781624921730</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi0QNodHRwczovL3d3dy5kYWlseWlucWlsYWIuY29tL2FydGljbGUvNDA4OTY0LyVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVCMC0lRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUIwJUUwJUE3JTg3JUUwJUE2JUI5JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJFLSVFMCVBNiVBRSVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVBRS0lRTAlQTYlQTglRTAlQTclODIlRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVBRSVFMCVBNyU4Ny0lRTAlQTYlODUlRTAlQTYlQUQlRTAlQTYlQkYlRTAlQTYlQUYlRTAlQTclOEIlRTAlQTYlOTfSAQA?oc=5"/>
-        <updated>2021-08-17T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[পাইরেসির শিকার 'রেহানা মরিয়ম নূর', সাইবার ক্রাইমে অভিযোগ পাইরেসির শিকার হল কান উৎসবে প্রশংসিত  Daily Inqilab
-চুরি হলো ‘রেহানা মরিয়ম নূর’, নেওয়া হলো আইনি ব্যবস্থা  দৈনিক আমাদেরসময়
-পাইরেসির কবলে ‘রেহানা মরিয়ম নূর’, থানায় লিখিত অভিযোগ  risingbd.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
-        <id>52781624921730</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi1wNodHRwczovL3d3dy5wcml5by5jb20vZS8zNDQ2MjMwLSVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVCMCVFMCVBNyU4NyVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVCMC0lRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTYlQkUlRTAlQTYlQjAtJUUyJTgwJTk4JUUwJUE2JUIwJUUwJUE3JTg3JUUwJUE2JUI5JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJFLSVFMCVBNiVBRSVFMCVBNiVCMCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNiVBRS0lRTAlQTYlQTglRTAlQTclODIlRTAlQTYlQjAlRTIlODAlOTktJUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVBRSVFMCVBNyU4Ny0lRTAlQTYlODUlRTAlQTYlQUQlRTAlQTYlQkYlRTAlQTYlQUYlRTAlQTclOEIlRTAlQTYlOTfSAQA?oc=5"/>
-        <updated>2021-08-17T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[ইন্টারনেট লাইফ  প্রিয়.কম
-চুরি হলো ‘রেহানা মরিয়ম নূর’, নেওয়া হলো আইনি ব্যবস্থা  দৈনিক আমাদেরসময়
-পাইরেসির কবলে ‘রেহানা মরিয়ম নূর’, থানায় লিখিত অভিযোগ  risingbd.com
-বঙ্গবন্ধুর বায়োপিকের ৭৫ শতাংশ শুটিং শেষ  prothomalo.com
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T20 World Cup: ভারত-পাকিস্তান ক্রিকেট লড়াই ২৪ অক্টোবর, টি-টোয়েন্টি বিশ্বকাপের সূচি ঘোষণা আইসিসি-র - Anandabazar Patrika]]></title>
-        <id>52781625906495</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmFuYW5kYWJhemFyLmNvbS9zcG9ydHMvaWNjLWFubm91bmNlcy10MjAtd29ybGQtY3VwLXNjaGR1bGUtZGd0bC9jaWQvMTI5ODgyONIBW2h0dHBzOi8vd3d3LmFuYW5kYWJhemFyLmNvbS9hbXAvc3BvcnRzL2ljYy1hbm5vdW5jZXMtdDIwLXdvcmxkLWN1cC1zY2hkdWxlLWRndGwvY2lkLzEyOTg4Mjg?oc=5"/>
-        <updated>2021-08-17T05:23:06.000Z</updated>
-        <summary type="html"><![CDATA[T20 World Cup: ভারত-পাকিস্তান ক্রিকেট লড়াই ২৪ অক্টোবর, টি-টোয়েন্টি বিশ্বকাপের সূচি ঘোষণা আইসিসি-র  Anandabazar Patrika
-টি-টোয়েন্টি বিশ্বকাপের সূচি ঘোষণা  bdcrictime.com Bangla
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ  কালের কন্ঠ
-স্কটল্যান্ডের বিপক্ষে লড়াইয়ে শুরু বাংলাদেশের বিশ্বকাপ  bdnews24.com
-টি-টোয়েন্টি বিশ্বকাপের সূচি প্রকাশ, বাংলাদেশের খেলা প্রথম দিনই  জাগো নিউজ
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কাবুল ছেড়ে যাওয়া মার্কিন বিমানে মিলল দেহাবশেষ - কালের কন্ঠ]]></title>
-        <id>52781625876063</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvd29ybGQvMjAyMS8wOC8xNy8xMDY0MjQx0gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvd29ybGQvMjAyMS8wOC8xNy8xMDY0MjQx?oc=5"/>
-        <updated>2021-08-17T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[কাবুল ছেড়ে যাওয়া মার্কিন বিমানে মিলল দেহাবশেষ  কালের কন্ঠ
-কাবুল ফেরত মার্কিন বিমানে মানব দেহাবশেষ  নয়া দিগন্ত
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[জিয়ার মাজারে পুলিশ-বিএনপি সংঘর্ষ - নয়া দিগন্ত]]></title>
-        <id>CBMisQJodHRwczovL3d3dy5kYWlseW5heWFkaWdhbnRhLmNvbS9wb2xpdGljcy82MDIxODEvJUUwJUE2JTlDJUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4Ny0lRTAlQTYlQUElRTAlQTclODElRTAlQTYlQjIlRTAlQTYlQkYlRTAlQTYlQjYtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JThGJUUwJUE2JUE4JUUwJUE2JUFBJUUwJUE2JUJGLSVFMCVBNiVCOCVFMCVBNiU4MiVFMCVBNiU5OCVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVCN9IBAA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMisQJodHRwczovL3d3dy5kYWlseW5heWFkaWdhbnRhLmNvbS9wb2xpdGljcy82MDIxODEvJUUwJUE2JTlDJUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFJUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiU5QyVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNyU4Ny0lRTAlQTYlQUElRTAlQTclODElRTAlQTYlQjIlRTAlQTYlQkYlRTAlQTYlQjYtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JThGJUUwJUE2JUE4JUUwJUE2JUFBJUUwJUE2JUJGLSVFMCVBNiVCOCVFMCVBNiU4MiVFMCVBNiU5OCVFMCVBNiVCMCVFMCVBNyU4RCVFMCVBNiVCN9IBAA?oc=5"/>
-        <updated>2021-08-17T05:21:00.000Z</updated>
-        <summary type="html"><![CDATA[জিয়ার মাজারে পুলিশ-বিএনপি সংঘর্ষ  নয়া দিগন্তGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
