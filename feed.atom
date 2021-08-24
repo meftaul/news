@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-24T00:40:27.746Z</updated>
+    <updated>2021-08-24T01:50:22.766Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
@@ -29,12 +29,34 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[খেলোয়াড়-সমর্থকদের মধ্যে মারামারি - দৈনিক ইত্তেফাক]]></title>
+        <id>CBMisQJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9zcG9ydHMvMjY5ODIwLyVFMCVBNiU5NiVFMCVBNyU4NyVFMCVBNiVCMiVFMCVBNyU4QiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Qy0lRTAlQTYlQjglRTAlQTYlQUUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTUlRTAlQTYlOTUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUE3JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTg3LSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNiVCRtIBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMisQJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC9zcG9ydHMvMjY5ODIwLyVFMCVBNiU5NiVFMCVBNyU4NyVFMCVBNiVCMiVFMCVBNyU4QiVFMCVBNyU5RiVFMCVBNiVCRSVFMCVBNyU5Qy0lRTAlQTYlQjglRTAlQTYlQUUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTUlRTAlQTYlOTUlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUFFJUUwJUE2JUE3JUUwJUE3JThEJUUwJUE2JUFGJUUwJUE3JTg3LSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCMCVFMCVBNiVCRtIBAA?oc=5"/>
+        <updated>2021-08-23T23:23:00.000Z</updated>
+        <summary type="html"><![CDATA[খেলোয়াড়-সমর্থকদের মধ্যে মারামারি  দৈনিক ইত্তেফাক]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[অতিরিক্ত ঘুম হতে পারে যেসব রোগের কারণ - Jugantor]]></title>
         <id>52781636152431</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMixwJodHRwczovL3d3dy5qdWdhbnRvci5jb20vbGlmZXN0eWxlLzQ1NzE3NC8lRTAlQTYlODUlRTAlQTYlQTQlRTAlQTYlQkYlRTAlQTYlQjAlRTAlQTYlQkYlRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQTQtJUUwJUE2JTk4JUUwJUE3JTgxJUUwJUE2JUFFLSVFMCVBNiVCOSVFMCVBNiVBNCVFMCVBNyU4Ny0lRTAlQTYlQUElRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JTg3JUUwJUE2JUI4JUUwJUE2JUFDLSVFMCVBNiVCMCVFMCVBNyU4QiVFMCVBNiU5NyVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOTUlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQTPSAQA?oc=5"/>
         <updated>2021-08-23T23:01:00.000Z</updated>
         <summary type="html"><![CDATA[অতিরিক্ত ঘুম হতে পারে যেসব রোগের কারণ  Jugantor
 অতিরিক্ত ঘুমোন! ভয়ঙ্কর রোগের শিকার হতে পারেন, জানাচ্ছেন বিশেষজ্ঞরা  Zee News বাংলা
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আবারও আলোচনায় অর্ষা - Jugantor]]></title>
+        <id>52781635345253</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiyQFodHRwczovL3d3dy5qdWdhbnRvci5jb20vZW50ZXJ0YWlubWVudC80NTcxNjYvJUUwJUE2JTg2JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE2JTkzLSVFMCVBNiU4NiVFMCVBNiVCMiVFMCVBNyU4QiVFMCVBNiU5QSVFMCVBNiVBOCVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlODUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQjclRTAlQTYlQkXSAQA?oc=5"/>
+        <updated>2021-08-23T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[আবারও আলোচনায় অর্ষা  Jugantor
+আলোচনায় অর্ষা  mzamin.com
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -9601,46 +9623,6 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 আসিফ নজরুলের বিরুদ্ধে মানববন্ধন, কক্ষে তালা  প্রথম আলো
 ড. আসিফ নজরুলের কক্ষ খুলে দেওয়া হয়েছে  The Daily Star Bangla
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bell Bottom Review: রাখে অক্ষয় তো বাঁচে বক্স অফিস, করোনা আবহে ইন্ডাস্ট্রির হাল ফেরাবেন ‘খিলাড়ি কুমার’ - Sangbad Pratidin]]></title>
-        <id>52781627889521</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiigFodHRwczovL3d3dy5zYW5nYmFkcHJhdGlkaW4uaW4vZW50ZXJ0YWlubWVudC9maWxtLXJldmlldy9ha3NoYXkta3VtYXItbWFrZXMtYS1zdHJvbmctY2FzZS1mb3ItYnJpbmdpbmctdGhlLWF1ZGllbmNlcy1iYWNrLXRvLXRoZS10aGVhdHJlcy_SAXxodHRwczovL20uc2FuZ2JhZHByYXRpZGluLmluL2FydGljbGUvYWtzaGF5LWt1bWFyLW1ha2VzLWEtc3Ryb25nLWNhc2UtZm9yLWJyaW5naW5nLXRoZS1hdWRpZW5jZXMtYmFjay10by10aGUtdGhlYXRyZXMvNTkxMTQ3?oc=5"/>
-        <updated>2021-08-19T13:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Bell Bottom Review: রাখে অক্ষয় তো বাঁচে বক্স অফিস, করোনা আবহে ইন্ডাস্ট্রির হাল ফেরাবেন ‘খিলাড়ি কুমার’  Sangbad Pratidin
-বেল বটম: করোনার মধ্যে  বাংলানিউজটোয়েন্টিফোর.কম
-bell bottom movie review: , Rating: { 3.5/5} - চলচ্চিত্র বিশ্লেষন , নির্ধারণ: { 3.5/5} : অক্ষয় কুমার,হুমা কুরেশি,বাণী কাপুর,আদিল হুসেন,লারা দত্ত অভিনীত ' ' চলচ্চিত্র বিশ্ল  এই সময়
-শ্যুটিং ফ্লোরে Akshay-এর নয়া থ্রিলার, সঙ্গে Rakul Preet Singh  Zee ২৪ ঘণ্টা
-ছবি মুক্তির কিছুক্ষণের মধ্যেই অনলাইনে ফাঁস হয়ে গেলো ‘বেল বটম’, হতাশ অক্কির ফ্যানেরা  Asianet News Bangla
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আফগানিস্তানের মেয়ে ফুটবলারদের জার্সি পোড়ানো ও ছবি মুছে ফেলার পরামর্শ - প্রথম আলো]]></title>
-        <id>52781630866796</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMixwRodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9zcG9ydHMvZm9vdGJhbGwvJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQUIlRTAlQTclODElRTAlQTYlOUYlRTAlQTYlQUMlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUI4JUUwJUE2JUJGLSVFMCVBNiVBQSVFMCVBNyU4QiVFMCVBNyU5QyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4Qi0lRTAlQTYlOTMtJUUwJUE2JTlCJUUwJUE2JUFDJUUwJUE2JUJGLSVFMCVBNiVBRSVFMCVBNyU4MSVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUI20gHRBGh0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tL2FtcC9zdG9yeS9zcG9ydHMvZm9vdGJhbGwvJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQUIlRTAlQTclODElRTAlQTYlOUYlRTAlQTYlQUMlRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUI4JUUwJUE2JUJGLSVFMCVBNiVBQSVFMCVBNyU4QiVFMCVBNyU5QyVFMCVBNiVCRSVFMCVBNiVBOCVFMCVBNyU4Qi0lRTAlQTYlOTMtJUUwJUE2JTlCJUUwJUE2JUFDJUUwJUE2JUJGLSVFMCVBNiVBRSVFMCVBNyU4MSVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQUIlRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUI2?oc=5"/>
-        <updated>2021-08-19T13:30:36.000Z</updated>
-        <summary type="html"><![CDATA[আফগানিস্তানের মেয়ে ফুটবলারদের জার্সি পোড়ানো ও ছবি মুছে ফেলার পরামর্শ  প্রথম আলো
-নতুন কাউকে পাচ্ছে বিশ্ব, সেরা তিনে নেই মেসি-রোনালদো  24 Live Newspaper
-সুযোগ পেলে বাংলাদেশি কোচরাও তো পারেন  প্রথম আলো
-দাবানল থেকে গ্রাম বাঁচানোর লড়াইয়ে ক্যাসিয়াস | প্রথম আলো  প্রথম আলো
-মেসি–নেইমারদের ছেড়ে যাচ্ছেন না এমবাপ্পে  প্রথম আলো
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বাংলাদেশের বিশ্বকাপ দল ঘোষণা কবে - bdnews24.com]]></title>
-        <id>CBMiOWh0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9jcmlja2V0L2FydGljbGUxOTI4NDQ1LmJkbmV3c9IBNGh0dHBzOi8vbS5iZG5ld3MyNC5jb20vYW1wL2JuL2RldGFpbC9jcmlja2V0LzE5Mjg0NDU</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vYmFuZ2xhLmJkbmV3czI0LmNvbS9jcmlja2V0L2FydGljbGUxOTI4NDQ1LmJkbmV3c9IBNGh0dHBzOi8vbS5iZG5ld3MyNC5jb20vYW1wL2JuL2RldGFpbC9jcmlja2V0LzE5Mjg0NDU?oc=5"/>
-        <updated>2021-08-19T13:28:40.000Z</updated>
-        <summary type="html"><![CDATA[বাংলাদেশের বিশ্বকাপ দল ঘোষণা কবে  bdnews24.com]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
