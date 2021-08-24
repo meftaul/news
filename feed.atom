@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meftaul.github.io/news/index.html</id>
     <title>News::feed</title>
-    <updated>2021-08-24T03:13:43.864Z</updated>
+    <updated>2021-08-24T04:17:04.415Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://meftaul.github.io/news/index.html"/>
     <link rel="self" href="https://meftaul.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[আলোচনা চাই তবে যুদ্ধ করতেও প্রস্তুত: তালেবান-বিরোধী নেতা মাসুদ - The Daily Star Bangla]]></title>
+        <id>CBMiyQVodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTYvJUUwJUE2JThGJUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFLyVFMCVBNiVBNiVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCNyVFMCVBNiVCRiVFMCVBNiVBMy0lRTAlQTYlOEYlRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTclOUYlRTAlQTYlQkUvJUUwJUE2JTg2JUUwJUE2JUIyJUUwJUE3JThCJUUwJUE2JTlBJUUwJUE2JUE4JUUwJUE2JUJFLSVFMCVBNiU5QSVFMCVBNiVCRSVFMCVBNiU4Ny0lRTAlQTYlQTQlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JTgxJUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3LSVFMCVBNiU5NSVFMCVBNiVCMCVFMCVBNiVBNCVFMCVBNyU4NyVFMCVBNiU5My0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVCMCVFMCVBNyU4QiVFMCVBNiVBNyVFMCVBNyU4MC0lRTAlQTYlQTglRTAlQTclODclRTAlQTYlQTQlRTAlQTYlQkUtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JTgxJUUwJUE2JUE2LTI1MzQ0MdIBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiyQVodHRwczovL3d3dy50aGVkYWlseXN0YXIubmV0L2JhbmdsYS8lRTAlQTYlQjglRTAlQTYlODIlRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTYvJUUwJUE2JThGJUUwJUE2JUI2JUUwJUE2JUJGJUUwJUE3JTlGJUUwJUE2JUJFLyVFMCVBNiVBNiVFMCVBNiU5NSVFMCVBNyU4RCVFMCVBNiVCNyVFMCVBNiVCRiVFMCVBNiVBMy0lRTAlQTYlOEYlRTAlQTYlQjYlRTAlQTYlQkYlRTAlQTclOUYlRTAlQTYlQkUvJUUwJUE2JTg2JUUwJUE2JUIyJUUwJUE3JThCJUUwJUE2JTlBJUUwJUE2JUE4JUUwJUE2JUJFLSVFMCVBNiU5QSVFMCVBNiVCRSVFMCVBNiU4Ny0lRTAlQTYlQTQlRTAlQTYlQUMlRTAlQTclODctJUUwJUE2JUFGJUUwJUE3JTgxJUUwJUE2JUE2JUUwJUE3JThEJUUwJUE2JUE3LSVFMCVBNiU5NSVFMCVBNiVCMCVFMCVBNiVBNCVFMCVBNyU4NyVFMCVBNiU5My0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4LSVFMCVBNiVBQyVFMCVBNiVCRiVFMCVBNiVCMCVFMCVBNyU4QiVFMCVBNiVBNyVFMCVBNyU4MC0lRTAlQTYlQTglRTAlQTclODclRTAlQTYlQTQlRTAlQTYlQkUtJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JTgxJUUwJUE2JUE2LTI1MzQ0MdIBAA?oc=5"/>
+        <updated>2021-08-24T03:59:37.000Z</updated>
+        <summary type="html"><![CDATA[আলোচনা চাই তবে যুদ্ধ করতেও প্রস্তুত: তালেবান-বিরোধী নেতা মাসুদ  The Daily Star Bangla]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[আফগানিস্তান-পাকিস্তান সিরিজ স্থগিত - সারাবাংলা]]></title>
+        <id>52781636733528</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiJmh0dHBzOi8vc2FyYWJhbmdsYS5uZXQvcG9zdC9zYi01ODY3MTgv0gEA?oc=5"/>
+        <updated>2021-08-24T03:56:17.000Z</updated>
+        <summary type="html"><![CDATA[আফগানিস্তান-পাকিস্তান সিরিজ স্থগিত  সারাবাংলা
+পাকিস্তানেই হবে পাক-আফগান সিরিজ ২৩ আগস্ট, ২০২১  Jugantor
+স্থগিত হয়ে গেল পাকিস্তান-আফগানিস্তান ওয়ানডে সিরিজটি  কালের কন্ঠ
+পাকিস্তানে স্থানান্তর পাক-আফগান সিরিজ  দৈনিক ইত্তেফাক
+পাকিস্তান-দুবাই হয়ে শ্রীলঙ্কা যাবে আফগানিস্তান  নয়া দিগন্ত
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[তালেবানের ওপর নিষেধাজ্ঞার পথ খোলা রেখেছেন জাস্টিন ট্রুডো - এনটিভি]]></title>
+        <id>CBMirANodHRwczovL3d3dy5udHZiZC5jb20vd29ybGQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5MyVFMCVBNiVBQSVFMCVBNiVCMC0lRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjclRTAlQTclODclRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTclOEQlRTAlQTYlOUUlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUE1LSVFMCVBNiU5NiVFMCVBNyU4QiVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOTYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JUE4LTk1MDM0OdIBsANodHRwczovL3d3dy5udHZiZC5jb20vd29ybGQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5MyVFMCVBNiVBQSVFMCVBNiVCMC0lRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjclRTAlQTclODclRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTclOEQlRTAlQTYlOUUlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUE1LSVFMCVBNiU5NiVFMCVBNyU4QiVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOTYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JUE4LTk1MDM0OT9hbXA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMirANodHRwczovL3d3dy5udHZiZC5jb20vd29ybGQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5MyVFMCVBNiVBQSVFMCVBNiVCMC0lRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjclRTAlQTclODclRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTclOEQlRTAlQTYlOUUlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUE1LSVFMCVBNiU5NiVFMCVBNyU4QiVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOTYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JUE4LTk1MDM0OdIBsANodHRwczovL3d3dy5udHZiZC5jb20vd29ybGQvJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5MyVFMCVBNiVBQSVFMCVBNiVCMC0lRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjclRTAlQTclODclRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlOUMlRTAlQTclOEQlRTAlQTYlOUUlRTAlQTYlQkUlRTAlQTYlQjAtJUUwJUE2JUFBJUUwJUE2JUE1LSVFMCVBNiU5NiVFMCVBNyU4QiVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlQjAlRTAlQTclODclRTAlQTYlOTYlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE2JTlDJUUwJUE2JUJFJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JTlGJUUwJUE2JUJGJUUwJUE2JUE4LTk1MDM0OT9hbXA?oc=5"/>
+        <updated>2021-08-24T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[তালেবানের ওপর নিষেধাজ্ঞার পথ খোলা রেখেছেন জাস্টিন ট্রুডো  এনটিভি]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ - প্রিয়.কম]]></title>
+        <id>CBMimQRodHRwczovL3d3dy5wcml5by5jb20vZS8zNDY0NzY1LSVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUIwJUUwJUE3JThCJUUwJUE2JUE3JUUwJUE3JTgwJUUwJUE2JUIwJUUwJUE2JUJFLSVFMCVBNiVBQyVFMCVBNiVCMiVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQkUtJUUwJUE2JUIyJUUwJUE2JUExJUUwJUE2JUJDJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFGJUUwJUE2JUJDJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5QyVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRi0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtLS1CQkMtTmV3cy0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkXSAQA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMimQRodHRwczovL3d3dy5wcml5by5jb20vZS8zNDY0NzY1LSVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JUFDJUUwJUE2JUJGJUUwJUE2JUIwJUUwJUE3JThCJUUwJUE2JUE3JUUwJUE3JTgwJUUwJUE2JUIwJUUwJUE2JUJFLSVFMCVBNiVBQyVFMCVBNiVCMiVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTYlQkUtJUUwJUE2JUIyJUUwJUE2JUExJUUwJUE2JUJDJUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE2JUFGJUUwJUE2JUJDJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU5QyVFMCVBNiVBOCVFMCVBNyU4RCVFMCVBNiVBRi0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTclODElRTAlQTYlQTQtLS1CQkMtTmV3cy0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlODIlRTAlQTYlQjIlRTAlQTYlQkXSAQA?oc=5"/>
+        <updated>2021-08-24T03:24:00.000Z</updated>
+        <summary type="html"><![CDATA[প্রিয় | ইন্টারনেট লাইফ  প্রিয়.কম]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[সোনার ব্যবসায় সাকিব আল হাসান - দৈনিক আমাদেরসময়]]></title>
+        <id>52781636978697</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmRhaW5pa2FtYWRlcnNob21veS5jb20vcG9zdC8zMzIxMDTSAS5odHRwczovL2FtcC5kYWluaWthbWFkZXJzaG9tb3kuY29tL3Bvc3QvMzMyMTA0?oc=5"/>
+        <updated>2021-08-24T02:44:48.000Z</updated>
+        <summary type="html"><![CDATA[সোনার ব্যবসায় সাকিব আল হাসান  দৈনিক আমাদেরসময়
+সোনার ব্যবসায় সাকিব  bdnews24.com
+এবার সোনার ব্যবসায় সাকিব  Jugantor
+এবার স্বর্ণের ব্যবসায় সাকিব আল হাসান  mzamin.com
+এবার স্বর্ণের ব্যবসায় সাকিব  জাগো নিউজ
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[শিক্ষাপ্রতিষ্ঠান খুলে দেওয়ার চিন্তা-ভাবনা চলছে - কালের কন্ঠ]]></title>
         <id>52781636906640</id>
@@ -38,6 +98,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8yNC8xMDY2NDE00gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8yNC8xMDY2NDE0?oc=5"/>
         <updated>2021-08-24T02:12:00.000Z</updated>
         <summary type="html"><![CDATA[যোগদানের মাস থেকেই উৎসব ভাতা পাবেন সরকারি চাকরিজীবীরা  কালের কন্ঠGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[রকের এই চিটমিল ভাইরাল - প্রথম আলো]]></title>
+        <id>CBMi0QFodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9saWZlc3R5bGUvcmVjaXBlLyVFMCVBNiVCMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOEYlRTAlQTYlODctJUUwJUE2JTlBJUUwJUE2JUJGJUUwJUE2JTlGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIyLSVFMCVBNiVBRCVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCMtIB2wFodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9hbXAvc3RvcnkvbGlmZXN0eWxlL3JlY2lwZS8lRTAlQTYlQjAlRTAlQTYlOTUlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JThGJUUwJUE2JTg3LSVFMCVBNiU5QSVFMCVBNiVCRiVFMCVBNiU5RiVFMCVBNiVBRSVFMCVBNiVCRiVFMCVBNiVCMi0lRTAlQTYlQUQlRTAlQTYlQkUlRTAlQTYlODclRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQjI</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi0QFodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9saWZlc3R5bGUvcmVjaXBlLyVFMCVBNiVCMCVFMCVBNiU5NSVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOEYlRTAlQTYlODctJUUwJUE2JTlBJUUwJUE2JUJGJUUwJUE2JTlGJUUwJUE2JUFFJUUwJUE2JUJGJUUwJUE2JUIyLSVFMCVBNiVBRCVFMCVBNiVCRSVFMCVBNiU4NyVFMCVBNiVCMCVFMCVBNiVCRSVFMCVBNiVCMtIB2wFodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9hbXAvc3RvcnkvbGlmZXN0eWxlL3JlY2lwZS8lRTAlQTYlQjAlRTAlQTYlOTUlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JThGJUUwJUE2JTg3LSVFMCVBNiU5QSVFMCVBNiVCRiVFMCVBNiU5RiVFMCVBNiVBRSVFMCVBNiVCRiVFMCVBNiVCMi0lRTAlQTYlQUQlRTAlQTYlQkUlRTAlQTYlODclRTAlQTYlQjAlRTAlQTYlQkUlRTAlQTYlQjI?oc=5"/>
+        <updated>2021-08-24T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[রকের এই চিটমিল ভাইরাল  প্রথম আলো]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -119,11 +189,46 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[যোগদানের মাস থেকেই বেতনের সমান উৎসব ভাতা - Bangla Tribune]]></title>
+        <id>CBMi3QJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTc2MzEvJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUE2JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODclRTAlQTYlODctJUUwJUE2JUFDJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlODklRTAlQTclOEUlRTAlQTYlQjglRTAlQTYlQUMtJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE2JUJF0gHhAmh0dHBzOi8vd3d3LmJhbmdsYXRyaWJ1bmUuY29tL2FtcC82OTc2MzEvJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUE2JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODclRTAlQTYlODctJUUwJUE2JUFDJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlODklRTAlQTclOEUlRTAlQTYlQjglRTAlQTYlQUMtJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE2JUJF</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi3QJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTc2MzEvJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUE2JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODclRTAlQTYlODctJUUwJUE2JUFDJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlODklRTAlQTclOEUlRTAlQTYlQjglRTAlQTYlQUMtJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE2JUJF0gHhAmh0dHBzOi8vd3d3LmJhbmdsYXRyaWJ1bmUuY29tL2FtcC82OTc2MzEvJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3JUUwJUE2JUE2JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCOC0lRTAlQTYlQTUlRTAlQTclODclRTAlQTYlOTUlRTAlQTclODclRTAlQTYlODctJUUwJUE2JUFDJUUwJUE3JTg3JUUwJUE2JUE0JUUwJUE2JUE4JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlODklRTAlQTclOEUlRTAlQTYlQjglRTAlQTYlQUMtJUUwJUE2JUFEJUUwJUE2JUJFJUUwJUE2JUE0JUUwJUE2JUJF?oc=5"/>
+        <updated>2021-08-23T20:45:35.000Z</updated>
+        <summary type="html"><![CDATA[যোগদানের মাস থেকেই বেতনের সমান উৎসব ভাতা  Bangla TribuneGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[২০২২ সালের এইচএসসি পরীক্ষার্থীদের ষষ্ঠ সপ্তাহের অ্যাসাইনমেন্ট প্রকাশ - Bangla Tribune]]></title>
+        <id>CBMipANodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTc0NzQvJUUwJUE3JUE4JUUwJUE3JUE2JUUwJUE3JUE4JUUwJUE3JUE4LSVFMCVBNiVCOCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOEYlRTAlQTYlODclRTAlQTYlOUElRTAlQTYlOEYlRTAlQTYlQjglRTAlQTYlQjglRTAlQTYlQkYtJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE3JTgwJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUE1JUUwJUE3JTgwJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCNyVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiVBMC0lRTAlQTYlQjglRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjklRTAlQTclODclRTAlQTYlQjDSAagDaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5NzQ3NC8lRTAlQTclQTglRTAlQTclQTYlRTAlQTclQTglRTAlQTclQTgtJUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU4RiVFMCVBNiU4NyVFMCVBNiU5QSVFMCVBNiU4RiVFMCVBNiVCOCVFMCVBNiVCOCVFMCVBNiVCRi0lRTAlQTYlQUElRTAlQTYlQjAlRTAlQTclODAlRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQjclRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTUlRTAlQTclODAlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI3JUUwJUE2JUI3JUUwJUE3JThEJUUwJUE2JUEwLSVFMCVBNiVCOCVFMCVBNiVBQSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCOSVFMCVBNyU4NyVFMCVBNiVCMA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMipANodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTc0NzQvJUUwJUE3JUE4JUUwJUE3JUE2JUUwJUE3JUE4JUUwJUE3JUE4LSVFMCVBNiVCOCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNyU4NyVFMCVBNiVCMC0lRTAlQTYlOEYlRTAlQTYlODclRTAlQTYlOUElRTAlQTYlOEYlRTAlQTYlQjglRTAlQTYlQjglRTAlQTYlQkYtJUUwJUE2JUFBJUUwJUE2JUIwJUUwJUE3JTgwJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE3JThEJUUwJUE2JUE1JUUwJUE3JTgwJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCNyVFMCVBNiVCNyVFMCVBNyU4RCVFMCVBNiVBMC0lRTAlQTYlQjglRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQjklRTAlQTclODclRTAlQTYlQjDSAagDaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5NzQ3NC8lRTAlQTclQTglRTAlQTclQTYlRTAlQTclQTglRTAlQTclQTgtJUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiU4RiVFMCVBNiU4NyVFMCVBNiU5QSVFMCVBNiU4RiVFMCVBNiVCOCVFMCVBNiVCOCVFMCVBNiVCRi0lRTAlQTYlQUElRTAlQTYlQjAlRTAlQTclODAlRTAlQTYlOTUlRTAlQTclOEQlRTAlQTYlQjclRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclOEQlRTAlQTYlQTUlRTAlQTclODAlRTAlQTYlQTYlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI3JUUwJUE2JUI3JUUwJUE3JThEJUUwJUE2JUEwLSVFMCVBNiVCOCVFMCVBNiVBQSVFMCVBNyU4RCVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCOSVFMCVBNyU4NyVFMCVBNiVCMA?oc=5"/>
+        <updated>2021-08-23T20:39:36.000Z</updated>
+        <summary type="html"><![CDATA[২০২২ সালের এইচএসসি পরীক্ষার্থীদের ষষ্ঠ সপ্তাহের অ্যাসাইনমেন্ট প্রকাশ  Bangla Tribune]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[আফগানিস্তান-পাকিস্তান সিরিজ স্থগিত - Desh Rupantor]]></title>
         <id>CBMiNWh0dHBzOi8vd3d3LmRlc2hydXBhbnRvci5jb20vc3BvcnRzLzIwMjEvMDgvMjQvMzExMjgy0gE5aHR0cHM6Ly93d3cuZGVzaHJ1cGFudG9yLmNvbS9hbXAvc3BvcnRzLzIwMjEvMDgvMjQvMzExMjgy</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LmRlc2hydXBhbnRvci5jb20vc3BvcnRzLzIwMjEvMDgvMjQvMzExMjgy0gE5aHR0cHM6Ly93d3cuZGVzaHJ1cGFudG9yLmNvbS9hbXAvc3BvcnRzLzIwMjEvMDgvMjQvMzExMjgy?oc=5"/>
         <updated>2021-08-23T20:37:00.000Z</updated>
         <summary type="html"><![CDATA[আফগানিস্তান-পাকিস্তান সিরিজ স্থগিত  Desh RupantorGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[কক্সবাজারে সিনহা হত্যা মামলার সাক্ষ্যগ্রহণ শুরু - কালের কন্ঠ]]></title>
+        <id>52781634802190</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvY291bnRyeS1uZXdzLzIwMjEvMDgvMjQvMTA2NjM5NNIBRmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9hbXAvb25saW5lL2NvdW50cnktbmV3cy8yMDIxLzA4LzI0LzEwNjYzOTQ?oc=5"/>
+        <updated>2021-08-23T20:13:00.000Z</updated>
+        <summary type="html"><![CDATA[কক্সবাজারে সিনহা হত্যা মামলার সাক্ষ্যগ্রহণ শুরু  কালের কন্ঠ
+সিনহা হত্যা ওসি প্রদীপের নির্দেশে: আদালতে শারমিন  bdnews24.com
+সিনহা হত্যা মামলায় আদালতে ওসি প্রদীপসহ ১৫ আসামি  দৈনিক ইত্তেফাক
+সিনহা হত্যা: ওসি প্রদীপসহ ১৫ আসামির উপস্থিতিতে সাক্ষ্যগ্রহণ শুরু  জাগো নিউজ
+সিনহা হত্যা: শুরু হল সাক্ষ্যগ্রহণ  bdnews24.com
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -144,6 +249,18 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ভোলাহাটে যানবাহনে গণডাকাতি - জাগো নিউজ]]></title>
+        <id>52781636985675</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL2NvdW50cnkvbmV3cy82OTM4MzPSASVodHRwczovL3d3dy5qYWdvbmV3czI0LmNvbS9hbXAvNjkzODMz?oc=5"/>
+        <updated>2021-08-23T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[ভোলাহাটে যানবাহনে গণডাকাতি  জাগো নিউজ
+চাঁপাইনবাবগঞ্জে যানবাহনে গণডাকাতি, অর্থ-স্বর্ণালংকার লুট  কালের কন্ঠ
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[সিনহা হত্যা মামলার বিচার শুরু - mzamin.com]]></title>
         <id>52781634802190</id>
         <link href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vbS5temFtaW4uY29tL2FydGljbGUucGhwP216YW1pbj0yODk2MDbSAQA?oc=5"/>
@@ -154,6 +271,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 সিনহা হত্যা: শুরু হল সাক্ষ্যগ্রহণ  bdnews24.com
 মেজর সিনহা হত্যা মামলার সাক্ষ্য গ্রহণ শুরু  দৈনিক আমাদেরসময়
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ফুটবল খেলায় কুংফু! - Daily Inqilab]]></title>
+        <id>CBMitQFodHRwczovL3d3dy5kYWlseWlucWlsYWIuY29tL2FydGljbGUvNDEwOTAzLyVFMCVBNiVBQiVFMCVBNyU4MSVFMCVBNiU5RiVFMCVBNiVBQyVFMCVBNiVCMi0lRTAlQTYlOTYlRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JTk1JUUwJUE3JTgxJUUwJUE2JTgyJUUwJUE2JUFCJUUwJUE3JTgx0gEA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMitQFodHRwczovL3d3dy5kYWlseWlucWlsYWIuY29tL2FydGljbGUvNDEwOTAzLyVFMCVBNiVBQiVFMCVBNyU4MSVFMCVBNiU5RiVFMCVBNiVBQyVFMCVBNiVCMi0lRTAlQTYlOTYlRTAlQTclODclRTAlQTYlQjIlRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JTk1JUUwJUE3JTgxJUUwJUE2JTgyJUUwJUE2JUFCJUUwJUE3JTgx0gEA?oc=5"/>
+        <updated>2021-08-23T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ফুটবল খেলায় কুংফু!  Daily InqilabGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -472,6 +599,16 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
 Afghanistan: টার্গেট পঞ্জশির, চূড়ান্ত লড়াইয়ের হুঁশিয়ারি তালিবান যোদ্ধাদের, প্রস্তুত মাসুদ বাহিনী  Zee ২৪ ঘণ্টা
 তালিবানের বিরুদ্ধে প্রতিরোধ : Afghanistan News Latest Updates in Bengali  এই সময়
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[সুকুক বন্ড ইস্যুর প্রথম ধাপে বড় ধাক্কা খেল বেক্সিমকো - businesshour24.com]]></title>
+        <id>CBMi4wFodHRwczovL2J1c2luZXNzaG91cjI0LmNvbS8zODM1NC8lRTAlQTYlQjglRTAlQTclODElRTAlQTYlOTUlRTAlQTclODElRTAlQTYlOTUtJUUwJUE2JUFDJUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JUExLSVFMCVBNiU4NyVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiVCMC0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQTUlRTAlQTYlQUUtJUUwJUE2JUE3L9IBAA</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi4wFodHRwczovL2J1c2luZXNzaG91cjI0LmNvbS8zODM1NC8lRTAlQTYlQjglRTAlQTclODElRTAlQTYlOTUlRTAlQTclODElRTAlQTYlOTUtJUUwJUE2JUFDJUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JUExLSVFMCVBNiU4NyVFMCVBNiVCOCVFMCVBNyU4RCVFMCVBNiVBRiVFMCVBNyU4MSVFMCVBNiVCMC0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQTUlRTAlQTYlQUUtJUUwJUE2JUE3L9IBAA?oc=5"/>
+        <updated>2021-08-23T14:48:21.000Z</updated>
+        <summary type="html"><![CDATA[সুকুক বন্ড ইস্যুর প্রথম ধাপে বড় ধাক্কা খেল বেক্সিমকো  businesshour24.com]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
@@ -1580,6 +1717,21 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <summary type="html"><![CDATA[কাবুলে উদ্ধার অভিযানে বাণিজ্যিক বিমান ব্যবহার করবে যুক্তরাষ্ট্র  দৈনিক ইত্তেফাক
 কাবুলে উদ্ধার অভিযানে ১৮ বাণিজ্যিক বিমান ব্যবহার করবে পেন্টাগন ২৩ আগস্ট, ২০২১  Jugantor
 কাবুলে উদ্ধার তৎপরতায় বাণিজ্যিক উড়োজাহাজ ব্যবহার করবে যুক্তরাষ্ট্র  Bangla Tribune
+Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
+        <author>
+            <name>সেরা খবর - Google News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[পাঞ্জশিরে মুখোমুখি তালেবান-মাসুদ বাহিনী - Dhakatimes24]]></title>
+        <id>52781635017759</id>
+        <link href="https://news.google.com/__i/rss/rd/articles/CBMi7gJodHRwczovL3d3dy5kaGFrYXRpbWVzMjQuY29tLzIwMjEvMDgvMjMvMjI3MTQ3LyVFMCVBNiVBQSVFMCVBNiVCRSVFMCVBNiU5RSVFMCVBNyU4RCVFMCVBNiU5QyVFMCVBNiVCNiVFMCVBNiVCRiVFMCVBNiVCMCVFMCVBNyU4Ny0lRTAlQTYlQUUlRTAlQTclODElRTAlQTYlOTYlRTAlQTclOEIlRTAlQTYlQUUlRTAlQTclODElRTAlQTYlOTYlRTAlQTYlQkYtJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JUE4LSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVCOCVFMCVBNyU4MSVFMCVBNiVBNi0lRTAlQTYlQUMlRTAlQTYlQkUlRTAlQTYlQjklRTAlQTYlQkYlRTAlQTYlQTglRTAlQTclODDSAQA?oc=5"/>
+        <updated>2021-08-23T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[পাঞ্জশিরে মুখোমুখি তালেবান-মাসুদ বাহিনী  Dhakatimes24
+পাঞ্জশির ঘিরে ফেলেছে তালেবান, যেভাবে সমাধান চায় মাসউদ বাহিনী  Jugantor
+১৬ গার্লফ্রেন্ড, খুশি রাখতে ৫০টি গাড়ি চুরি  Bangla Tribune
+পাঞ্জশির ঘিরে ফেলেছে তালেবান বাহিনী  নয়া দিগন্ত
+তালেবানকে রুখে দাঁড়ানো কে এই মাসউদ! ২৩ আগস্ট, ২০২১  Jugantor
 Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
@@ -9409,139 +9561,6 @@ Google News-এ সম্পূর্ণ প্রতিবেদন দেখ�
         <link href="https://news.google.com/__i/rss/rd/articles/CBMi9QJodHRwczovL3d3dy5pdHRlZmFxLmNvbS5iZC93b3JsZG5ld3MvMjY4ODY0LyVFMCVBNiU4NiVFMCVBNiVBQiVFMCVBNiU5NyVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlQUElRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlOTUlRTAlQTYlQkUlRTAlQTclOUYtJUUwJUE2JUFGJUUwJUE3JTgxJUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUE0LSVFMCVBNiVCOSVFMCVBNiU5QSVFMCVBNyU4RCVFMCVBNiU5QiVFMCVBNyU4Ny0lRTAlQTYlOTUlRTAlQTYlQkUlRTAlQTYlQjIlRTAlQTYlQkYlRTAlQTYlQUUlRTAlQTYlQkUlRTAlQTclOUYlRTAlQTclODctJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JTg3JUUwJUE3JTlGJUUwJUE3JTg3JUUwJUE2JUFDJUUwJUE2JUJF0gEA?oc=5"/>
         <updated>2021-08-19T16:21:00.000Z</updated>
         <summary type="html"><![CDATA[আফগান পতাকায় যুক্ত হচ্ছে 'কালিমায়ে তাইয়েবা' আফগানিস্তানের জাতীয় পতাকা প্রতিস্থাপন করতে চায়...  দৈনিক ইত্তেফাক]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[দুই মামলায় প্রধান আসামি মেয়র সাদিক - এনটিভি]]></title>
-        <id>52781629991719</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMisgJodHRwczovL3d3dy5udHZiZC5jb20vYmFuZ2xhZGVzaC8lRTAlQTYlQTYlRTAlQTclODElRTAlQTYlODctJUUwJUE2JUFFJUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE3JTlGLSVFMCVBNiVBQSVFMCVBNyU4RCVFMCVBNiVCMCVFMCVBNiVBNyVFMCVBNiVCRSVFMCVBNiVBOC0lRTAlQTYlODYlRTAlQTYlQjglRTAlQTYlQkUlRTAlQTYlQUUlRTAlQTYlQkYtJUUwJUE2JUFFJUUwJUE3JTg3JUUwJUE3JTlGJUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiVCRSVFMCVBNiVBNiVFMCVBNiVCRiVFMCVBNiU5NS05NDgzNDnSAbYCaHR0cHM6Ly93d3cubnR2YmQuY29tL2JhbmdsYWRlc2gvJUUwJUE2JUE2JUUwJUE3JTgxJUUwJUE2JTg3LSVFMCVBNiVBRSVFMCVBNiVCRSVFMCVBNiVBRSVFMCVBNiVCMiVFMCVBNiVCRSVFMCVBNyU5Ri0lRTAlQTYlQUElRTAlQTclOEQlRTAlQTYlQjAlRTAlQTYlQTclRTAlQTYlQkUlRTAlQTYlQTgtJUUwJUE2JTg2JUUwJUE2JUI4JUUwJUE2JUJFJUUwJUE2JUFFJUUwJUE2JUJGLSVFMCVBNiVBRSVFMCVBNyU4NyVFMCVBNyU5RiVFMCVBNiVCMC0lRTAlQTYlQjglRTAlQTYlQkUlRTAlQTYlQTYlRTAlQTYlQkYlRTAlQTYlOTUtOTQ4MzQ5P2FtcA?oc=5"/>
-        <updated>2021-08-19T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[দুই মামলায় প্রধান আসামি মেয়র সাদিক  এনটিভি
-আ. লীগ-ছাত্রলীগের ৩০ নেতা-কর্মীর নামে পুলিশ ও ইউএনওর মামলা  প্রথম আলো
-ইউএনওর বাসায় হামলায় হুকুমের আসামি বরিশালের মেয়র  জাগো নিউজ
-যে ঘটনায় ইউএনও'র বাসভবনে হামলা  Bangla Tribune
-২ মামলার প্রধান আসামি সিটি মেয়র সাদিক আবদুল্লাহ  The Daily Star Bangla
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কাবুলে বিমান থেকে পড়ে নিহত এক আফগান ফুটবলার! - জাগো নিউজ]]></title>
-        <id>CBMiMWh0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL3Nwb3J0cy9mb290YmFsbC82OTI5NDDSASVodHRwczovL3d3dy5qYWdvbmV3czI0LmNvbS9hbXAvNjkyOTQw</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL3Nwb3J0cy9mb290YmFsbC82OTI5NDDSASVodHRwczovL3d3dy5qYWdvbmV3czI0LmNvbS9hbXAvNjkyOTQw?oc=5"/>
-        <updated>2021-08-19T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[কাবুলে বিমান থেকে পড়ে নিহত এক আফগান ফুটবলার!  জাগো নিউজGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[কাবুলে বিমান থেকে পড়ে নিহত এক আফগান ফুটবলার! - জাগো নিউজ]]></title>
-        <id>52781630130842</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LmphZ29uZXdzMjQuY29tL3Nwb3J0cy9mb290YmFsbC82OTI5NDDSAQA?oc=5"/>
-        <updated>2021-08-19T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[কাবুলে বিমান থেকে পড়ে নিহত এক আফগান ফুটবলার!  জাগো নিউজ
-মার্কিন উড়োজাহাজের চাকায় পাওয়া দেহাবশেষ আফগান ফুটবলারের  প্রথম আলো
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[দুই মামলায় প্রধান আসামি - বাংলানিউজটোয়েন্টিফোর.কম]]></title>
-        <id>CBMiOGh0dHBzOi8vYmFuZ2xhbmV3czI0LmNvbS9uYXRpb25hbC9uZXdzL2JkLzg3NTA4MC5kZXRhaWxz0gEA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vYmFuZ2xhbmV3czI0LmNvbS9uYXRpb25hbC9uZXdzL2JkLzg3NTA4MC5kZXRhaWxz0gEA?oc=5"/>
-        <updated>2021-08-19T16:02:04.000Z</updated>
-        <summary type="html"><![CDATA[দুই মামলায় প্রধান আসামি  বাংলানিউজটোয়েন্টিফোর.কম]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`নির্ধারিত সময়সীমার পরও আফগানিস্তানে থাকতে পারে আমেরিকান সৈন্য - কালের কন্ঠ]]></title>
-        <id>52781629979212</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvd29ybGQvMjAyMS8wOC8xOS8xMDY1MDY50gE_aHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvd29ybGQvMjAyMS8wOC8xOS8xMDY1MDY5?oc=5"/>
-        <updated>2021-08-19T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[`নির্ধারিত সময়সীমার পরও আফগানিস্তানে থাকতে পারে আমেরিকান সৈন্য  কালের কন্ঠ
-কাবুল বিমানবন্দরের নিয়ন্ত্রণে থাকা মার্কিন সৈন্যদের প্রত্যাহারের বিষয়ে যা জানালেন বাইডেন  নয়া দিগন্ত
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বাগদান সেরেছেন ভিকি কৌশল-ক্যাটরিনা! বড়সড় আপডেট দিলেন তাঁদের ঘনিষ্ঠ জন - Indian Express Bangla]]></title>
-        <id>52781627981302</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vYmVuZ2FsaS5pbmRpYW5leHByZXNzLmNvbS9lbnRlcnRhaW5tZW50L2thdHJpbmEta2FpZi12aWNreS1rYXVzaGFscy1lbmdhZ2VtZW50LXJ1bW9yL9IBYmh0dHBzOi8vYmVuZ2FsaS5pbmRpYW5leHByZXNzLmNvbS9lbnRlcnRhaW5tZW50L2thdHJpbmEta2FpZi12aWNreS1rYXVzaGFscy1lbmdhZ2VtZW50LXJ1bW9yL2xpdGUv?oc=5"/>
-        <updated>2021-08-19T15:40:34.000Z</updated>
-        <summary type="html"><![CDATA[বাগদান সেরেছেন ভিকি কৌশল-ক্যাটরিনা! বড়সড় আপডেট দিলেন তাঁদের ঘনিষ্ঠ জন  Indian Express Bangla
-গোপনে বাগদান সেরেছেন ভিকি-ক্যাটরিনা!  বাংলানিউজটোয়েন্টিফোর.কম
-আংটি বদল করে ফেলেছেন ক্যাটরিনা-ভিকি?  কালের কন্ঠ
-বাগদান সারলেন ক্যাটরিনা!  SOMOY NEWS
-গোপনে বাগদান সেরেছেন ক্যাটরিনা ও ভিকি  দৈনিক ইত্তেফাক
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[দুই মামলারই প্রধান আসামি মেয়র সা‌দিক - কালের কন্ঠ]]></title>
-        <id>52781630311643</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvY291bnRyeS1uZXdzLzIwMjEvMDgvMTkvMTA2NTA2NtIBRmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9hbXAvb25saW5lL2NvdW50cnktbmV3cy8yMDIxLzA4LzE5LzEwNjUwNjY?oc=5"/>
-        <updated>2021-08-19T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[দুই মামলারই প্রধান আসামি মেয়র সা‌দিক  কালের কন্ঠ
-ইউএনওর বাসায় হামলা, ২ মামলাতেই প্রধান আসামি মেয়র সাদিক ১৯ আগস্ট, ২০২১  Jugantor
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ধর্মান্ধদের আর কোনোদিন দেশের মাটিতে রাজনীতি করতে দেয়া হবে না: কৃষিমন্ত্রী - কালের কন্ঠ]]></title>
-        <id>52781629573488</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LmthbGVya2FudGhvLmNvbS9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY1MDY10gFCaHR0cHM6Ly93d3cua2FsZXJrYW50aG8uY29tL2FtcC9vbmxpbmUvbmF0aW9uYWwvMjAyMS8wOC8xOS8xMDY1MDY1?oc=5"/>
-        <updated>2021-08-19T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[ধর্মান্ধদের আর কোনোদিন দেশের মাটিতে রাজনীতি করতে দেয়া হবে না: কৃষিমন্ত্রী  কালের কন্ঠ
-হেফাজত আমির বাবুনগরীর মৃত্যুতে স্বরাষ্ট্রমন্ত্রীর শোক  Bangla Tribune
-ধর্মান্ধদের রাজনীতি করতে দেওয়া হবে না: কৃষিমন্ত্রী  বাংলানিউজটোয়েন্টিফোর.কম
-ধর্মান্ধদের এ দেশের মাটিতে রাজনীতি করতে দেওয়া হবে না: কৃষিমন্ত্রী  Bangla Tribune
-সাংবাদিক জাহিদুজ্জমান ফারুকের মৃত্যুতে প্রধানমন্ত্রীর শোক  Bangla Tribune
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[বন্ধু নিয়ে তিশা, ফারিণদের সঙ্গে ডিনারের সুযোগ - প্রথম আলো]]></title>
-        <id>52781630215517</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMikANodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9lbnRlcnRhaW5tZW50L2RoYWxseXdvb2QvJUUwJUE2JUFDJUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE3JTgxLSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTYlQkYlRTAlQTYlQjYlRTAlQTYlQkUtJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE2JUJGJUUwJUE2JUEzJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiU5OSVFMCVBNyU4RCVFMCVBNiU5NyVFMCVBNyU4Ny0lRTAlQTYlQTElRTAlQTYlQkYlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE3JTgxJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk30gGaA2h0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tL2FtcC9zdG9yeS9lbnRlcnRhaW5tZW50L2RoYWxseXdvb2QvJUUwJUE2JUFDJUUwJUE2JUE4JUUwJUE3JThEJUUwJUE2JUE3JUUwJUE3JTgxLSVFMCVBNiVBOCVFMCVBNiVCRiVFMCVBNyU5RiVFMCVBNyU4Ny0lRTAlQTYlQTQlRTAlQTYlQkYlRTAlQTYlQjYlRTAlQTYlQkUtJUUwJUE2JUFCJUUwJUE2JUJFJUUwJUE2JUIwJUUwJUE2JUJGJUUwJUE2JUEzJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVCOCVFMCVBNiU5OSVFMCVBNyU4RCVFMCVBNiU5NyVFMCVBNyU4Ny0lRTAlQTYlQTElRTAlQTYlQkYlRTAlQTYlQTglRTAlQTYlQkUlRTAlQTYlQjAlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JUI4JUUwJUE3JTgxJUUwJUE2JUFGJUUwJUE3JThCJUUwJUE2JTk3?oc=5"/>
-        <updated>2021-08-19T15:27:57.000Z</updated>
-        <summary type="html"><![CDATA[বন্ধু নিয়ে তিশা, ফারিণদের সঙ্গে ডিনারের সুযোগ  প্রথম আলো
-নতুন ছবি লুট করে নেয় সাইবার অপরাধীরা  প্রথম আলো
-Google News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আফগানিস্তানে আটকা পড়েছেন ২৭ বাংলাদেশি - Bangla Tribune]]></title>
-        <id>CBMi3wJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTY4OTQvJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3LSVFMCVBNiU4NiVFMCVBNiU5RiVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlQUElRTAlQTclOUMlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE3JUE4JUUwJUE3JUFELSVFMCVBNiVBQyVFMCVBNiVCRSVFMCVBNiU4MiVFMCVBNiVCMiVFMCVBNiVCRSVFMCVBNiVBNiVFMCVBNyU4NyVFMCVBNiVCNiVFMCVBNiVCRi0lQzIlQTAlQzIlQTDSAeMCaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5Njg5NC8lRTAlQTYlODYlRTAlQTYlQUIlRTAlQTYlOTclRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JTg2JUUwJUE2JTlGJUUwJUE2JTk1JUUwJUE2JUJFLSVFMCVBNiVBQSVFMCVBNyU5QyVFMCVBNyU4NyVFMCVBNiU5QiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTclQTglRTAlQTclQUQtJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JTgyJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUI2JUUwJUE2JUJGLSVDMiVBMCVDMiVBMA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi3wJodHRwczovL3d3dy5iYW5nbGF0cmlidW5lLmNvbS82OTY4OTQvJUUwJUE2JTg2JUUwJUE2JUFCJUUwJUE2JTk3JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE2JUJGJUUwJUE2JUI4JUUwJUE3JThEJUUwJUE2JUE0JUUwJUE2JUJFJUUwJUE2JUE4JUUwJUE3JTg3LSVFMCVBNiU4NiVFMCVBNiU5RiVFMCVBNiU5NSVFMCVBNiVCRS0lRTAlQTYlQUElRTAlQTclOUMlRTAlQTclODclRTAlQTYlOUIlRTAlQTclODclRTAlQTYlQTgtJUUwJUE3JUE4JUUwJUE3JUFELSVFMCVBNiVBQyVFMCVBNiVCRSVFMCVBNiU4MiVFMCVBNiVCMiVFMCVBNiVCRSVFMCVBNiVBNiVFMCVBNyU4NyVFMCVBNiVCNiVFMCVBNiVCRi0lQzIlQTAlQzIlQTDSAeMCaHR0cHM6Ly93d3cuYmFuZ2xhdHJpYnVuZS5jb20vYW1wLzY5Njg5NC8lRTAlQTYlODYlRTAlQTYlQUIlRTAlQTYlOTclRTAlQTYlQkUlRTAlQTYlQTglRTAlQTYlQkYlRTAlQTYlQjglRTAlQTclOEQlRTAlQTYlQTQlRTAlQTYlQkUlRTAlQTYlQTglRTAlQTclODctJUUwJUE2JTg2JUUwJUE2JTlGJUUwJUE2JTk1JUUwJUE2JUJFLSVFMCVBNiVBQSVFMCVBNyU5QyVFMCVBNyU4NyVFMCVBNiU5QiVFMCVBNyU4NyVFMCVBNiVBOC0lRTAlQTclQTglRTAlQTclQUQtJUUwJUE2JUFDJUUwJUE2JUJFJUUwJUE2JTgyJUUwJUE2JUIyJUUwJUE2JUJFJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JUI2JUUwJUE2JUJGLSVDMiVBMCVDMiVBMA?oc=5"/>
-        <updated>2021-08-19T15:24:42.000Z</updated>
-        <summary type="html"><![CDATA[আফগানিস্তানে আটকা পড়েছেন ২৭ বাংলাদেশি  Bangla TribuneGoogle News-এ সম্পূর্ণ প্রতিবেদন দেখুন]]></summary>
-        <author>
-            <name>সেরা খবর - Google News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[আসিফ নজরুলের কক্ষের তালা খুলে দেওয়া হয়েছে ১৯ আগস্ট, ২০২১ - Jugantor]]></title>
-        <id>CBMi6gJodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU1NzAxLyVFMCVBNiU4NiVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVBQi0lRTAlQTYlQTglRTAlQTYlOUMlRTAlQTYlQjAlRTAlQTclODElRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTk1JUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlOTYlRTAlQTclODElRTAlQTYlQjIlRTAlQTclODctJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JTkzJUUwJUE3JTlGJUUwJUE2JUJFLSVFMCVBNiVCOSVFMCVBNyU5RiVFMCVBNyU4NyVFMCVBNiU5QiVFMCVBNyU4N9IBAA</id>
-        <link href="https://news.google.com/__i/rss/rd/articles/CBMi6gJodHRwczovL3d3dy5qdWdhbnRvci5jb20vbmF0aW9uYWwvNDU1NzAxLyVFMCVBNiU4NiVFMCVBNiVCOCVFMCVBNiVCRiVFMCVBNiVBQi0lRTAlQTYlQTglRTAlQTYlOUMlRTAlQTYlQjAlRTAlQTclODElRTAlQTYlQjIlRTAlQTclODclRTAlQTYlQjAtJUUwJUE2JTk1JUUwJUE2JTk1JUUwJUE3JThEJUUwJUE2JUI3JUUwJUE3JTg3JUUwJUE2JUIwLSVFMCVBNiVBNCVFMCVBNiVCRSVFMCVBNiVCMiVFMCVBNiVCRS0lRTAlQTYlOTYlRTAlQTclODElRTAlQTYlQjIlRTAlQTclODctJUUwJUE2JUE2JUUwJUE3JTg3JUUwJUE2JTkzJUUwJUE3JTlGJUUwJUE2JUJFLSVFMCVBNiVCOSVFMCVBNyU5RiVFMCVBNyU4NyVFMCVBNiU5QiVFMCVBNyU4N9IBAA?oc=5"/>
-        <updated>2021-08-19T15:17:00.000Z</updated>
-        <summary type="html"><![CDATA[আসিফ নজরুলের কক্ষের তালা খুলে দেওয়া হয়েছে ১৯ আগস্ট, ২০২১  Jugantor]]></summary>
         <author>
             <name>সেরা খবর - Google News</name>
         </author>
